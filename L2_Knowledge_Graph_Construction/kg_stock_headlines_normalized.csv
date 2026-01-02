@@ -1,0 +1,1526 @@
+head,head_type,type,tail,tail_type
+Gran,org,country,Russia,loc
+Russia,loc,item operated,Gran,org
+Russia,loc,subsidiary,Gran,org
+2010,time,point in time,2010,date
+third quarter of 2010,time,point in time,2010,date
+2007,concept,point in time,2007,date
+corresponding period in 2007,concept,point in time,2007,date
+Talentum,org,country,Finnish,loc
+Talentum,org,inception,2004,date
+Finnish Talentum,org,inception,2004,date
+Clothing,concept,manufacturer,Sepp+ñl+ñ,org
+Sepp+ñl+ñ,org,industry,Clothing,concept
+operating profit,concept,subclass of,loss,concept
+operating profit,concept,facet of,loss,concept
+operating profit,concept,opposite of,loss,concept
+Foundries,org,industry,Machine Shop,concept
+Foundries division,org,subsidiary,Machine Shop division,org
+Foundries,org,instance of,Machine Shop,concept
+handset,concept,manufacturer,Nokia,org
+Nokian Tyres,org,owned by,Nokia,org
+Nokia,org,subsidiary,Nokian Tyres,org
+2010,eve,follows,2009,eve
+2009,eve,point in time,2009,date
+MegaFon,org,inception,2008,date
+MegaFon,org,owned by,TeliaSonera,org
+life insurance,concept,subclass of,non-life insurance,concept
+Net,org,owned by,Teleste,org
+Net sales,concept,point in time,2009,date
+Nordea Group,org,currency,euros,concept
+Nordea,org,currency,euros,concept
+Nordea Group,org,subsidiary,Nordea,org
+2005,concept,point in time,2005,date
+corresponding period in 2005,concept,point in time,2005,date
+revenue,concept,opposite of,profit,concept
+euros,concept,replaces,euros,concept
+Lithuanian beer market,concept,country,Lithuania,loc
+Lithuanian Brewers ' Association,org,country,Lithuania,loc
+beer,concept,manufacturer,Lithuanian Brewers ' Association,org
+Viking Line,org,currency,EUR,concept
+cargo units,concept,manufacturer,Viking Line,org
+Viking Line,org,subsidiary,cargo units,org
+Kapiteeli,org,currency,EUR,concept
+Kapiteeli,org,industry,property portfolio,concept
+Kapiteeli,org,instance of,property portfolio,concept
+SAA1V,org,country,Finnish,loc
+Sanoma Oyj,org,country,Finnish,loc
+Sanoma Oyj HEL,org,country,Finnish,loc
+2009,concept,follows,2008,concept
+2008,time,point in time,2008,date
+mn,concept,part of,EUR,concept
+mn,concept,facet of,EUR,concept
+mn,concept,replaces,EUR,concept
+revenue,concept,opposite of,revenue,concept
+revenue passenger kilometres RPK,concept,instance of,January,concept
+revenue passenger kilometres,concept,measured physical quantity,capacity,concept
+Fiskars,org,replaces,EUR 487.7 million,concept
+Fiskars,org,currency,EUR 487.7 million,concept
+Fiskars,org,industry,EUR 65.4 million,concept
+non-life insurance,concept,subclass of,life insurance,concept
+Sales,media,facet of,export markets,concept
+Sales have risen,concept,facet of,export markets,concept
+export markets,concept,subclass of,Sales,concept
+Sales,concept,part of,operations,concept
+Sales,concept,facet of,operations,concept
+Sales,concept,opposite of,operations,concept
+Nokia Siemens Networks,org,owned by,Nokia,org
+Nokia Siemens Networks,org,subsidiary,Nokia,org
+Nokia Siemens Networks,org,part of,long-term partnership,concept
+euro,concept,start time,"September 30, 2007",date
+euro,concept,replaces,$,concept
+"September 30, 2007",time,point in time,"September 30, 2007",date
+publication paper,concept,subclass of,paper,concept
+publication papers,concept,subclass of,paper,concept
+paper demand,concept,facet of,paper prices,concept
+stainless steel,concept,manufacturer,maker,concept
+stainless steel,concept,manufacturer,second largest,org
+stainless steel,concept,manufacturer,stainless steel maker,org
+Royal Bank of Scotland,org,part of,FTSE 100,media
+Barclays shares,media,part of,FTSE 100,media
+Barclays,org,part of,FTSE 100,media
+Shares of Nokia Corp.,media,facet of,Nokia Corp.,org
+cell phone,concept,manufacturer,Nokia,org
+Shares of Nokia Corp.,media,owned by,Nokia Corp.,org
+financial report,media,publisher,SEB,org
+financial report,media,author,SEB,org
+Alma Media,org,country,Finnish,loc
+Turku School of Economics,org,country,Finnish,loc
+Jari Kaivo-oja,per,educated at,Turku School of Economics,org
+Jari Kaivo-oja,per,country of citizenship,Finnish,loc
+BasWare,media,inception,20 July 2006,date
+BasWare,media,industry,shares,concept
+BASWARE SHARE,media,owned by,BasWare,org
+2004 stock option plan,concept,point in time,2004,date
+2004 stock option plan,concept,inception,2004,date
+Tiimari,org,country,Finnish,loc
+Tiimari,org,country of origin,Finnish,loc
+Kemira,org,country,Russia,loc
+Kemira,org,industry,metal industry,concept
+Kemira,org,country,Russian,loc
+Finnlines,org,inception,2006,date
+2006,concept,point in time,2006,date
+2007,concept,follows,2006,concept
+Group,org,subsidiary,Division,org
+Group structure,media,facet of,Group,org
+Division,org,part of,Group,org
+TLT1V,org,country,Finnish,loc
+Teleste Oyj,org,country,Finnish,loc
+HEL,loc,country,Finnish,loc
+Aktia Group,org,country,Finnish,loc
+Aktia,org,country,Finnish,loc
+Finnish Aktia Group,org,owned by,Aktia Group,org
++àland,org,country,Finnish,loc
+2006,concept,follows,2005,concept
+Finnish Bank of +àland,org,headquarters location,+àland,loc
+Aktia,org,instance of,financial group,concept
+Vaahto Group,org,country,Finnish,loc
+Vaahto,org,country,Finnish,loc
+Vaahto Group,org,industry,high technology,concept
+L+ñnnen Tehtaat,org,country,Finnish,loc
+L+ñnnen Tehtaat,org,industry,food industry,concept
+L+ñnnen Tehtaat,org,country of origin,Finnish,loc
+Biohit,org,brand,Genesis,media
+Biohit,org,part of,Genesis,media
+Biohit,org,subsidiary,Genesis,media
+turnover,concept,facet of,operating profit,concept
+Finland,loc,diplomatic relation,Sweden,loc
+Sweden,loc,diplomatic relation,Finland,loc
+Construction volumes,concept,subclass of,volume,concept
+Construction volumes,media,facet of,Construction,concept
+Construction,concept,studies,volumes,concept
+Fiskars ' cash flow from operating activities,concept,point in time,2009,date
+Fiskars,org,currency,EUR121,concept
+Lithuania,loc,currency,"EUR 190,000",concept
+"EUR 190,000",concept,country,Lithuania,loc
+Lithuania,loc,currency,"EUR 70,000",concept
+"EUR 70,000",concept,country,Lithuania,loc
+2008,concept,follows,2007,concept
+fourth quarter of 2008,concept,point in time,2008,date
+EUR,concept,replaces,mn,concept
+June 2010,time,point in time,June 2010,date
+EUR655m,concept,end time,June 2010,date
+charger,concept,part of,Net sales,concept
+chargers,concept,part of,Net sales,concept
+charger,concept,facet of,Net sales,concept
+corresponding period,concept,point in time,2005,date
+Operating profit margin,concept,subclass of,margin,concept
+Operating profit margin,concept,instance of,margin,concept
+profit margin,concept,subclass of,margin,concept
+corresponding period in 2009,concept,point in time,2009,date
+mn,concept,replaces,mn,concept
+second quarter,concept,follows,last year,concept
+Ramirent,org,country,U.S.,loc
+Ramirent,org,currency,EURO 1246,misc
+x20ac 569 million,concept,replaces,x20ac 580 million,concept
+x20ac 569 million,concept,replaces,x20ac 569 million,concept
+x20ac 569 million,concept,replaces,x20ac 580 million $ 743 million,concept
+Ruukki,org,chief executive officer,Sakari Tamminen,per
+Sakari Tamminen,per,employer,Ruukki,org
+Ruukki,org,director / manager,Sakari Tamminen,per
+consolidated operating profit,concept,subclass of,operating profit,concept
+consolidated operating profit,concept,facet of,operating profit,concept
+operating profit,concept,facet of,operating,concept
+Department Store Division,org,industry,sales,concept
+Department Store Division,media,facet of,sales,concept
+Department Store Division,media,instance of,sales,concept
+March 2009,time,point in time,March 2009,date
+EUR,concept,instance of,fair value,concept
+EUR,concept,replaces,EUR,concept
+2009 in net sales,concept,point in time,2009,date
+2004,time,point in time,2004,date
+EUR,concept,unemployment rate,8,num
+EUR 1058,misc,elevation above sea level,8,num
+EUR 1058,misc,number of parts of this work,8,num
+Rapala,org,country,Finnish,loc
+fishing tackle,concept,manufacturer,Rapala,org
+Rapala VMC Corp,org,country,Finnish,loc
+Metso Minerals,org,country,Finnish,loc
+Metso,org,country,Finnish,loc
+Aktia,org,industry,financial,concept
+Ponsse,org,country,Finnish,loc
+forest machinery,concept,manufacturer,Ponsse,org
+Konecranes,org,country,Finnish,loc
+KCI Konecranes,org,country,Finnish,loc
+Konecranes,org,instance of,KCI,concept
+J+ñrvi-Suomen Portti,org,country,Finland,loc
+HKScan Finland,org,subsidiary,J+ñrvi-Suomen Portti,org
+HKScan Finland,org,item operated,J+ñrvi-Suomen Portti,org
+circulation revenues,concept,part of,Advertising,concept
+circulation revenues,concept,facet of,Advertising,concept
+Advertising,concept,subclass of,revenues,concept
+March 2007,time,point in time,March 2007,date
+corresponding period in 2006,concept,point in time,2006,date
+H1,org,owned by,Ls,org
+H1,org,subsidiary,"Ls 79,000",org
+financial year 2004,concept,point in time,2004,date
+corresponding quarter in 2006,concept,point in time,2006,date
+turnover,concept,subclass of,profit,concept
+turnover,concept,subclass of,operating profit,concept
+Cargo volume,concept,facet of,Cargo,concept
+Cargo volume,concept,subclass of,volume,concept
+Cargo volume,concept,duration,5,num
+comparable operating profit,concept,point in time,2004,date
+Digia,org,owned by,EUR67.9,num
+EUR 0.05,misc,instance of,EUR,concept
+EUR 0.05,misc,replaces,EUR,concept
+Diluted earnings per share,concept,facet of,EUR,concept
+Diluted earnings per share (EPS),concept,facet of,EUR,concept
+Diluted earnings per share,concept,part of,EUR,concept
+EUR3.68,misc,replaces,EUR0.50,misc
+EBIT margin,concept,subclass of,margin,concept
+EBIT margin,concept,instance of,margin,concept
+0.17,concept,instance of,eur,concept
+EPS from continuing operations,concept,instance of,continuing operations,concept
+EPS from continuing operations,concept,unemployment rate,0.17,num
+Frozen Foods Business,org,inception,2006,date
+Marimekko Oyj,org,country,Finnish,loc
+Marimekko,org,country,Finnish,loc
+Elcoteq,org,country,Finland,loc
+Elcoteq SE,org,country,Finland,loc
+Andrew Corp,org,country,Finland,loc
+Fiskars Oyj Abp,org,country,Finnish,loc
+Fiskars,org,country,Finnish,loc
+Fiskars Oyj,org,country,Finnish,loc
+Stockmann Oyj Abp,org,country,Finnish,loc
+Stockmann Oyj Abp,org,industry,department store,concept
+Stockmann Oyj,org,country,Finnish,loc
+Konecranes Oyj,org,country,Finnish,loc
+lifting equipment,concept,manufacturer,Konecranes Oyj,org
+Outotec,org,country,Finnish,loc
+Outotec Oyj,org,country,Finnish,loc
+Componenta Oyj,org,country,Finnish,loc
+Componenta,org,country,Finnish,loc
+euro,concept,country,Finnish,loc
+Beltton-Group,org,country,Finnish,loc
+Beltton-Group Plc,org,country,Finnish,loc
+Beltton-Group,org,inception,2005,date
+Stonesoft Oyj,org,country,Finnish,loc
+Stonesoft,org,country,Finnish,loc
+StoneGate,media,developer,Stonesoft Oyj,org
+Okmetic Oyj,org,stock exchange,OMX Helsinki,org
+Okmetic Oyj,org,country,Finnish,loc
+Okmetic Oyj,org,headquarters location,Helsinki,loc
+Done Solutions Oyj,org,country,Finnish,loc
+Done Solutions,org,country,Finnish,loc
+Done Solutions Oyj,org,instance of,software developer,concept
+First quarter,concept,follows,year earlier,concept
+First quarter underlying operating profit,concept,instance of,operating profit,concept
+First quarter underlying operating profit,concept,follows,year earlier,concept
+corresponding period of 2009,time,point in time,2009,date
+Kesko,org,industry,Retail,concept
+Kesko,org,industry,Retail and wholesale,concept
+Kesko,org,industry,wholesale,concept
+Pekka Eloholma,per,occupation,CEO,concept
+Pekka Eloholma,per,position held,CEO,concept
+Ragutis,org,country,Finnish,loc
+Ragutis,org,instance of,brewery,concept
+Svyturys-Utenos Alus,org,owned by,Baltic Beverages Holding,org
+Baltic Beverages Holding,org,subsidiary,Svyturys-Utenos Alus,org
+Lithuanian Brewers ' Association,org,industry,beer,concept
+September 2009,time,point in time,September 2009,date
+September 2009,time,follows,September 2008,time
+Q1 of 2010,eve,point in time,2010,date
+Bank of +àland,org,currency,EUR,concept
+mn,concept,country,Sweden,loc
+Sweden,loc,currency,EUR,concept
+EUR,concept,country,Sweden,loc
+fourth quarter of 2009,time,point in time,2009,date
+second quarter of 2010,time,point in time,2010,date
+EUR,concept,instance of,currency,concept
+currency,concept,model item,EUR,concept
+EUR159.5 m,concept,instance of,currency,concept
+EUR159.5,concept,instance of,currency,concept
+a year earlier,eve,instance of,market share,concept
+Kesko Agro Eesti,org,industry,retailer,concept
+Kesko Agro,org,industry,retailer,concept
+Kesko Agro Eesti,org,industry,wholesaler,concept
+Kesko,org,subsidiary,VV-Auto,org
+VV-Auto,org,owned by,Kesko,org
+Kone,org,industry,net sales,concept
+Kone,org,inception,2008,date
+Kone,org,instance of,net sales,concept
+Ixonos Oyj,org,country,Finnish,loc
+Ixonos,org,country,Finnish,loc
+ADP News,media,country,Finnish,loc
+Affecto Oyj,org,country,Finnish,loc
+Affecto,org,country,Finnish,loc
+Affecto,org,industry,IT,concept
+Metso,org,industry,exchange rates,concept
+mn,concept,measured physical quantity,Net interest income,concept
+mn,concept,instance of,Net interest income,concept
+Vegetable Oil Business,media,instance of,Net sales,concept
+Net sales of the Vegetable Oil Business,concept,facet of,Vegetable Oil Business,concept
+Vegetable Oil Business,media,facet of,Vegetable Oil,concept
+Nokia Multimedia,org,inception,2005,date
+Kauppalehti,media,subsidiary,Marketplaces,org
+Kauppalehti,media,owned by,Marketplaces,org
+Kauppalehti,media,instance of,Marketplace,concept
+eur,concept,replaces,eur,concept
+corresponding period in 2008,concept,point in time,2008,date
+year earlier,concept,facet of,EUR,concept
+year earlier,concept,instance of,EUR,concept
+EUR21m,concept,replaces,"EUR106,000",concept
+EUR21,concept,replaces,"EUR106,000",concept
+mn,concept,part of,mn,concept
+September 2010,time,point in time,September 2010,date
+July-September 2010 periods,concept,follows,January-September,concept
+Orders received,concept,facet of,EUR,concept
+EUR732m,concept,instance of,Orders received,concept
+Orders received,concept,part of,EUR,concept
+Orion Pharma,org,inception,2004,date
+Passenger volumes,concept,part of,accounting period,concept
+Passenger volumes,concept,facet of,accounting period,concept
+Pre-tax profit,concept,subclass of,profit,concept
+x20ac,concept,country,US,loc
+US$,concept,replaces,x20ac,concept
+September,concept,follows,July,concept
+Revenue in July to September,media,facet of,company,org
+euros,concept,unemployment rate,14,num
+Revenues,media,facet of,euros,concept
+euros,concept,measured physical quantity,Revenues,concept
+Sales in Latin America,media,point in time,2009,date
+Sanoma Magazines Finland,org,country,Finland,loc
+Sanoma Magazines,media,country,Finland,loc
+Finnair,org,country,Asian,loc
+Finnair,org,operating area,Asian,loc
+Finnair,org,business division,Asian traffic,org
+last year,concept,instance of,sales,concept
+last year,concept,instance of,estimated sales,concept
+operating income,concept,facet of,EUR,concept
+operating income,concept,facet of,operating,concept
+operating income,concept,part of,EBIT,concept
+Kemira Oyj,org,country,Finnish,loc
+Kemira Oyj,org,industry,chemicals,concept
+Kemira Oyj,org,owned by,Finnish government,org
+Salomon,org,subsidiary,Suunto,org
+Salomon,org,owned by,Suunto,org
+Suunto,org,subsidiary,Salomon,org
+Grain Trading,org,inception,2005,date
+EUR,concept,start time,2005,date
+two-day rise,concept,follows,Wednesday,concept
+GBX10.0,media,instance of,stock,concept
+two-day rise,media,part of,GBX10.0,media
+three-day rise,concept,follows,Tuesday,concept
+GBX10.50,media,number of parts of this work,10,num
+earnings per share,concept,measured physical quantity,earnings,concept
+earnings per share,concept,subclass of,earnings,concept
+earnings per share,concept,subclass of,earnings per,concept
+EUR61m,concept,measured physical quantity,operating revenue,concept
+EUR61m,concept,measured physical quantity,revenue,concept
+year-on-year,concept,facet of,revenue,concept
+Vacon,org,currency,EUR,concept
+EUR,concept,manufacturer,Vacon,org
+BasWare,org,industry,product sales,concept
+BasWare,org,headquarters location,Bas,loc
+BasWare,org,industry,product,concept
+Marimekko,org,industry,textile,concept
+2009 level,media,point in time,2009,date
+Affecto,org,inception,2009,date
+Cash flow from operations,concept,point in time,2007,date
+Earnings per share,concept,facet of,EUR,concept
+Earnings per share,concept,part of,EUR,concept
+EUR 0.03,misc,replaces,EUR 0.11,misc
+Earnings per share EPS,concept,facet of,EPS,org
+third generation,concept,subclass of,mobile technology,concept
+third generation mobile technology,concept,inception,2007,date
+third generation mobile technology,concept,start time,2007,date
+a year ago,concept,instance of,quarter,concept
+quarter,concept,follows,a year ago,concept
+0.04 eur,concept,instance of,EPS,concept
+eur,concept,replaces,EPS,concept
+0.02 eur,concept,instance of,EPS,concept
+liters,concept,measured physical quantity,Exports,concept
+liters,concept,part of,Exports,concept
+liters,concept,part of,Export,concept
+Panostaja Oyj,org,country,Finnish,loc
+Finnish,loc,currency,euro,concept
+Okmetic,org,headquarters location,Helsinki,loc
+Fiskars Brands,org,subsidiary,Fiskars,org
+Fiskars Brands,org,owned by,Fiskars,org
+Fiskars Brands,org,currency,EUR 1458,concept
+paid standing orders,concept,inception,2009,date
+July-September 2008,time,follows,2007,concept
+2008-09,time,point in time,2008,date
+operating profit,concept,facet of,operating profit,concept
+operating profit,concept,subclass of,profit,concept
+operating profit,media,part of,reporting period,media
+EUR 68.3 million,concept,follows,EUR 62.2 million,concept
+EUR 68.3 million,concept,replaces,EUR 62.2 million,concept
+EUR 68.3,concept,replaces,EUR 62.2,concept
+Marimekko Group,org,subsidiary,Marimekko,org
+Marimekko,org,instance of,Group,concept
+Marimekko,org,owned by,Group,org
+Net sales,media,currency,EUR,concept
+Net sales,media,part of,EUR 36 million,concept
+Net sales,media,currency,EUR 36,misc
+a year earlier,eve,stock market index,market share,media
+October,concept,follows,December,concept
+December,concept,follows,October,concept
+October-December sales,concept,follows,October,concept
+Ragutis,org,owned by,Olvi,org
+Ragutis,org,country,Lithuania,loc
+Ragutis,org,owned by,A. Le Coq,org
+first quarter of 2010,concept,point in time,2010,date
+Operating profit,media,facet of,Asian plants,concept
+Operating profit of the Asian plants,concept,facet of,Asian plants,concept
+board,concept,subclass of,paper,concept
+paper,concept,subclass of,recycled,concept
+paper,concept,subclass of,recycled paper and board,concept
+Profit per share,concept,facet of,EUR,concept
+Profit per share,concept,part of,EUR,concept
+Return on capital employed,media,facet of,employed,concept
+Return on capital employed,concept,facet of,Return on capital employed,concept
+EURO,concept,country,Finnish,loc
+Finnish,loc,currency,EURO,concept
+Finnish company,org,currency,EURO,concept
+euro735 million,concept,replaces,euro742.2 million,concept
+euro735 million,concept,replaces,euro742.2,concept
+euro735 million,concept,follows,euro742.2 million,concept
+Ruukki,org,inception,2010,date
+Ruukki,org,instance of,order book,concept
+Sales in Finland,media,country,Finland,loc
+Sales in Finland,media,location,Finland,loc
+system packaging,concept,facet of,security,concept
+system packaging,concept,part of,security,concept
+security,concept,subclass of,system packaging,concept
+Stora Enso,org,currency,EUR 197mn,concept
+Stora Enso,org,currency,EUR,concept
+market share,media,facet of,company,org
+market share,media,owned by,company,org
+market share,media,part of,company,org
+passenger kilometres,concept,measured physical quantity,revenue,concept
+RPK,concept,measured physical quantity,kilometres,concept
+passenger kilometre,concept,measured physical quantity,kilometres,concept
+Aspo,org,chief executive officer,Gustav Nyberg,per
+Gustav Nyberg,per,occupation,CEO,concept
+Gustav Nyberg,per,employer,Aspo,org
+a year earlier,concept,point in time,a year earlier,date
+the same quarter a year earlier,concept,follows,a year earlier,concept
+operating profit,concept,currency,euros,concept
+operating profit,media,owned by,group,org
+12-month operating profit,concept,instance of,operating profit,concept
+life insurance,concept,subclass of,insurance,concept
+life insurance,concept,manufacturer,group,org
+life insurance,concept,owned by,group,org
+life insurance,concept,instance of,business,concept
+bn,concept,replaces,SEK,concept
+bn,concept,part of,SEK,concept
+forestry,concept,manufacturer,firm,concept
+EUR21m,misc,follows,EUR17m,misc
+EUR17m,misc,follows,EUR21m,misc
+EUR21m,concept,instance of,Turnover,concept
+JPMorgan,org,stock exchange,NYSE,loc
+Talvivaara,org,country,Finnish,loc
+Talvivaara Mining,org,country,Finnish,loc
+Baltic Pearl CJSC,org,headquarters location,St Petersburg,loc
+Shanghai Foreign Joint Investment Company,org,subsidiary,Baltic Pearl CJSC,org
+Baltic Pearl,loc,located in the administrative territorial entity,St Petersburg,loc
+Aspo Plc,org,owned by,Otto Henrik Bernhard Nyberg,per
+Aspo Plc,org,founded by,Otto Henrik Bernhard Nyberg,per
+Aspo Plc,org,director / manager,Otto Henrik Bernhard Nyberg,per
+RVR,concept,subclass of,data processing unit,concept
+RVR,concept,instance of,data processing unit,concept
+Commerzbank AG,org,subsidiary,Hamburg Branch,org
+INGA,org,subsidiary,ING,org
+Commerzbank AG,org,country,German,loc
+stock option plan 2006,concept,point in time,2006,date
+option rights,concept,inception,2006,date
+Finland,loc,unemployment rate,90,num
+Finland,loc,unemployment rate,30,num
+Finland,loc,unemployment rate,50,num
+IMAP,media,subclass of,e-mail,concept
+Nokia Messaging,media,use,e-mail,concept
+POP,media,subclass of,e-mail,concept
+EUR,concept,unemployment rate,11,num
+EUR11m,concept,instance of,contract,concept
+EUR,concept,replaces,EUR11m,concept
+Microsoft,org,subsidiary,Aldata,org
+Aldata,org,owned by,Microsoft,org
+Aldata,org,part of,Microsoft,org
+Kenneth Bower,per,residence,"Vista, Calif.",loc
+Kenneth Bower,per,employer,Patent & Trademark Office,concept
+ALEXANDRIA,org,headquarters location,Va.,loc
+Biohit,org,industry,liquid handling,concept
+Biohit,org,industry,diagnostic test,concept
+Biohit,org,industry,diagnostic test system,concept
+Sports Direct,org,chairperson,Mr Ashley,per
+Sports Direct,org,chief executive officer,Mr Ashley,per
+Mr Ashley,per,employer,Sports Direct,org
+Rental of building equipment,concept,subclass of,operating income,concept
+Rental of building equipment,concept,facet of,building equipment,concept
+Rental of building equipment,concept,facet of,operating income,concept
+Krakeroy bascule bridge,loc,manufacturer,Ruukki,org
+Krakeroy bascule bridge,concept,manufacturer,Ruukki 's delivery,org
+Stockmann,org,inception,1862,date
+Stockmann,org,country,Finland,loc
+Stockmann,org,country,Russia,loc
+WIG20,media,stock market index,WIG index,media
+WIG20,media,part of,WIG index,concept
+consolidated net sales,concept,subclass of,net sales,concept
+consolidated net sales,concept,facet of,net sales,concept
+consolidated net sales,concept,facet of,EUR,concept
+$,concept,replaces,euro,concept
+euro,concept,instance of,$,concept
+steel,concept,subclass of,structures,concept
+steel,concept,part of,structures,concept
+steel,concept,subclass of,structure,concept
+commissioning,concept,subclass of,start-up,concept
+start-up,concept,subclass of,commissioning,concept
+commissioning,concept,subclass of,service,concept
+first time users,concept,facet of,growth markets,concept
+first time users,concept,part of,growth markets,concept
+first time users,concept,facet of,growth market,concept
+Tielinja,org,inception,2005,date
+Tielinja,org,"dissolved, abolished or demolished date",2005,date
+paint,concept,manufacturer,Tikkurila Powder Coatings,org
+Tikkurila Powder Coatings,org,industry,paint plants,concept
+Tikkurila Powder Coatings,org,industry,paint plant,concept
+Gogol Street,loc,date of official opening,2004,date
+bridge,loc,crosses,Gogol Street,loc
+Gogol Street,loc,inception,2004,date
+VNH,org,number of work location,21,num
+VNH,org,population,21,num
+VNH,org,number of participants,21,num
+truck,concept,manufacturer,Ford,loc
+SUV,concept,manufacturer,Ford,loc
+truck,concept,subclass of,SUV,concept
+Orion Corp,org,industry,Pharmaceuticals,concept
+Orion Corp,org,industry,Pharmaceutical,concept
+Pharmaceuticals,concept,manufacturer,Orion Corp,org
+financial crisis,concept,point in time,2008,date
+financial crisis,concept,start time,2008,date
+financial crisis,concept,has cause,the growth margin,concept
+Nokian Tyres,org,headquarters location,HELSINKI,loc
+Tyres,org,owned by,Nokia,org
+Nokian Tyres,org,stock exchange,HELSINKI,loc
+Royal Unibrew,org,country,Denmark,loc
+Royal Unibrew,org,subsidiary,Kalnapilio-Tauro Grupe,org
+Kalnapilio-Tauro Grupe,org,owned by,Royal Unibrew,org
+Basware Corporation,org,inception,"August 31, 2010",date
+Basware Corporation,org,instance of,stock exchange,concept
+Basware,org,inception,"August 31, 2010",date
+third quarter,concept,instance of,operating profit,concept
+third quarter,concept,part of,operating profit,concept
+third quarter,concept,facet of,operating profit,concept
+eur,concept,instance of,currency,concept
+currency,concept,model item,eur,concept
+currency,concept,replaces,eur,concept
+Middle East,loc,continent,Africa,loc
+Middle East,loc,continent,Asia,loc
+Middle East,loc,shares border with,Asia Pacific,loc
+Kaupthing Bank,org,industry,Capital Markets,concept
+Capital Markets,concept,manufacturer,Kaupthing Bank,org
+Kaupthing Bank,org,instance of,Group,concept
+Huhtamaki,org,currency,EUR360.62,concept
+Huhtamaki,org,legal form,EUR360.62,concept
+Huhtamaki,org,owned by,EUR360.62,num
+SSH COMMUNICATIONS SECURITY,org,headquarters location,Helsinki,loc
+OMX Helsinki,org,headquarters location,Helsinki,loc
+SSH COMMUNICATIONS SECURITY CORP,org,headquarters location,Helsinki,loc
+Outokumpu,org,industry,shares,concept
+Outokumpu,org,part of,x20ac,concept
+Outokumpu,org,subsidiary,x20ac,org
+Nortel,org,owned by,Nokia Siemens,org
+Nortel,org,subsidiary,Verizon,org
+Nortel,org,subsidiary,Nokia Siemens,org
+Kari Kauniskangas,per,employer,YIT International Construction Services,org
+YIT International Construction Services,org,founded by,Kari Kauniskangas,per
+YIT International Construction Services,org,director / manager,Kari Kauniskangas,per
+Papa John 's Russia,org,chief executive officer,Christopher Wynne,per
+Papa John 's Russia,org,founded by,Christopher Wynne,per
+Suominen,org,country,Finnish,loc
+Suominen Corporation,org,country,Finnish,loc
+Suominen,org,country of origin,Finnish,loc
+Tecnomen Oyj,org,country,Finnish,loc
+Brasil Telecom,org,country,Finnish,loc
+Getinge,org,instance of,bank,concept
+Getinge share,org,instance of,bank,concept
+Getinge,org,industry,share,concept
+clothing,concept,manufacturer,Lindex,org
+Lindex,org,inception,December 2007,date
+Lindex,org,industry,clothing,concept
+beer,concept,manufacturer,breweries,concept
+EPHC,org,inception,"January 11, 2010",date
+EPHC,org,"dissolved, abolished or demolished date","January 11, 2010",date
+EPHC,org,instance of,board of directors,concept
+Bilfinger,org,owned by,Bilfinger,org
+Bilfinger,org,currency,euro,concept
+Bilfinger,org,unemployment rate,50.29,num
+Rautaruukki Corp,org,stock exchange,AFX,media
+ABN Amro,org,subsidiary,Rautaruukki Corp,org
+Nokia,org,subsidiary,Hutchison Essar,org
+Hutchison Essar,org,owned by,Nokia,org
+Nokia nok,org,subsidiary,Hutchison Essar,org
+Saudi Arabia,loc,part of,North Africa,loc
+Progress Group,org,country,Saudi Arabia,loc
+Olvi,org,country,Finnish,loc
+Olvi,org,instance of,brewery,concept
+Cramo,org,country,Finland,loc
+Peab,org,country,Finland,loc
+Kolkata,loc,country,India,loc
+Outotec,org,headquarters location,Kolkata,loc
+original contract,media,instance of,contract,concept
+signed last summer,concept,part of,original contract,concept
+original contract,media,part of,original contract,media
+collection errors,concept,facet of,operations,concept
+collection error,concept,facet of,operations,concept
+collection errors,concept,subclass of,operations,concept
+HEL,loc,located in the administrative territorial entity,Finnish,loc
+Biohit Oyj,org,country,Finnish,loc
+Biohit,org,country,Finnish,loc
+Componenta Oyj,org,country of origin,Finnish,loc
+Ruukki,org,country,Finnish,loc
+Rautaruukki Oyj,org,country,Finnish,loc
+Rautaruukki,org,country,Finnish,loc
+Proha Oyj,org,country,Finnish,loc
+Proha Oyj,org,industry,computer services,concept
+Nokia,org,subsidiary,Tyres,org
+Componenta Oyj HEL,org,country,Finnish,loc
+CTH1V,org,country,Finnish,loc
+Suominen Corporation,org,country of origin,Finnish,loc
+Metsaliitto,org,"dissolved, abolished or demolished date",2007,date
+2007,concept,follows,year ago,concept
+Elektrobit Oyj,org,country,Finnish,loc
+Elektrobit,org,country,Finnish,loc
+EBG1V,org,country,Finnish,loc
+EUR 0.27,misc,replaces,EUR 0.186,misc
+EUR 0.27,misc,replaces,EUR 0.6,misc
+EUR 0.27,misc,replaces,EUR 0.8,misc
+Unit costs for flight operations,concept,facet of,flight operations,concept
+Unit costs,concept,facet of,flight operations,concept
+second quarter of 2007,concept,point in time,2007,date
+third quarter of 2007,concept,point in time,2007,date
+Ruukki,org,country,Finland,loc
+Rautaruukki Oyj,org,country,Finland,loc
+Rautaruukki,org,country,Finland,loc
+previous accounting period,concept,currency,EUR,concept
+operating loss,concept,opposite of,profit,concept
+operating loss,concept,subclass of,loss,concept
+profit,concept,opposite of,operating loss,concept
+Outotec Oyj HEL,org,country,Finnish,loc
+profit,concept,subclass of,loss,concept
+pretax profit,concept,facet of,pretax loss,concept
+pretax profit,concept,subclass of,pretax loss,concept
+Affecto Oyj HEL,org,country,Finnish,loc
+Comptel,org,"dissolved, abolished or demolished date",2009,date
+Comptel,org,currency,EUR,concept
+Q2 of 2008,eve,point in time,2008,date
+Sponda Oyj,org,country,Finnish,loc
+ADPnews,media,owned by,Sponda Oyj,org
+ADPnews,media,country of origin,Finnish,loc
+Profit before taxes,concept,facet of,EUR,concept
+EUR 232.9 mn a year ago,concept,instance of,EUR,concept
+October 2010,time,point in time,October 2010,date
+October 2010,time,follows,2009,time
+Finnish Bore,org,owned by,Rettig family,concept
+Rettig family,concept,subsidiary,Finnish Bore,org
+Rettig,org,subsidiary,Finnish Bore,org
+USD,concept,replaces,EUR,concept
+EUR,concept,replaces,USD,concept
+Orion,concept,country,Finnish,loc
+Orion,concept,industry,pharmaceuticals,concept
+Danske Bank,org,country,Danish,loc
+Danske Bank,org,subsidiary,Sampo Bank,org
+Danske Bank,org,country,Finnish,loc
+Profit after taxes,concept,follows,last year,concept
+last year,eve,event interval,EUR0.01,num
+Profit after taxes,concept,opposite of,last year,concept
+last year,concept,opposite of,Profit after taxes,concept
+Vaisala Oyj,org,country,Finnish,loc
+VAIAS,org,country,Finnish,loc
+Efore Oyj,org,country,Finnish,loc
+Efore,org,country,Finnish,loc
+Efore Oyj,org,industry,power supply,concept
+Elcoteq,org,currency,kroon,concept
+Elcoteq,org,currency,kroons,concept
+Elcoteq group,org,currency,kroon,concept
+net sales,media,manufacturer,Raute,org
+operating result,media,manufacturer,Raute,org
+net sales,concept,opposite of,operating result,concept
+operating result,concept,opposite of,net sales,concept
+third quarter,concept,follows,second quarter,concept
+third quarter,concept,instance of,quarter,concept
+third quarter,concept,follows,second,concept
+Jussi Pesonen,per,position held,Chief Executive,concept
+Jussi Pesonen,per,occupation,Chief Executive,concept
+Amer Sports,org,subsidiary,Salomon,org
+Amer Sports,org,subsidiary,Atomic,org
+Amer Sports,org,subsidiary,Wilson,org
+Tallink,org,headquarters location,Tallinn,loc
+Tallinna Sadam Port,loc,place served by transport hub,Tallinn,loc
+Tallinna Sadam Port,loc,location,Tallinn,loc
+Cash Flow from Operations,media,facet of,Operations,concept
+Earnings per share,concept,subclass of,loss,concept
+Earnings per share,concept,facet of,loss of EUR,concept
+Earnings per share,concept,instance of,EPS,concept
+Earnings per share,concept,facet of,loss of EUR083,concept
+operating loss,concept,opposite of,operating profit,concept
+operating loss,concept,facet of,operating loss,concept
+Tiimari,org,industry,retailer,concept
+EPS,org,currency,EUR,concept
+EPS,org,currency,EUR0.08,misc
+optimisation,concept,subclass of,cost savings,concept
+optimisation,concept,facet of,cost savings,concept
+cost savings,concept,facet of,operational changes,concept
+Petri Ailus,per,date of birth,15.9.1966,date
+Petri Ailus,per,date of birth,15/91966,date
+Petri Ailus,per,date of birth,15 September 1966,date
+TII1V,org,country,Finland,loc
+TII1V,org,country,Finnish,loc
+Finnish,loc,located on terrain feature,Baltics,concept
+Bavarian Nordic,org,headquarters location,Copenhagen,loc
+Copenhagen,loc,currency,DKK250,misc
+national debt,concept,subclass of,debt,concept
+national debt,concept,subclass of,painful,concept
+paying off the national debt,concept,facet of,national debt,concept
+Invoice Automation,concept,manufacturer,Basware,org
+Basware Invoice Automation,media,developer,Basware,org
+Tapro,org,industry,retail,concept
+Tapro,org,industry,retail network,concept
+Nils-Erik Eklund,per,employer,Viking Line,org
+Viking Line,org,chief executive officer,Nils-Erik Eklund,per
+ASM,media,use,Application Service Management,concept
+ASM,media,part of,Application Service Management,concept
+Application Service Management ASM,media,instance of,outsourcing,concept
+YIT Oyj,org,country,Finnish,loc
+Tapiola Real Estate Oy,org,country,Finnish,loc
+Comptel Corporation,org,country,India,loc
+Major Order in India,media,country,India,loc
+Major Order in India Comptel Corporation,media,country,India,loc
+Olvi,per,sport,figures,concept
+set of figures,concept,author,Olvi,per
+Itella,org,industry,standardised services,concept
+Itella,org,subsidiary,Itella,org
+Itella,org,instance of,standardised services,concept
+Performance in the second half of 2009,media,point in time,2009,date
+Kaunas,loc,country,Lithuania,loc
+Ragutis,org,headquarters location,Kaunas,loc
+Glisten,org,owned by,Raisio,org
+Raisio,org,country,UK,loc
+Glisten,org,country,UK,loc
+Ruukki Construction,org,currency,USD,concept
+Ruukki Construction,org,inception,2009,date
+USD,concept,manufacturer,Ruukki Construction,org
+Ruukki,org,currency,EUR2m,concept
+Ruukki,org,currency,EUR,concept
+customers,concept,subclass of,employees,concept
+customers,concept,subclass of,shareholders,concept
+employees,concept,opposite of,customers,concept
+leisure,concept,subclass of,sport,concept
+leisure,concept,subclass of,sports,concept
+sports,concept,subclass of,leisure,concept
+Social Insurance Institution,org,country,Lithuania,loc
+SODRA,org,country,Lithuania,loc
+Lemmink+ñinen,org,country,Finnish,loc
+Lemmink+ñinen,org,country,Lithuania,loc
+Lithuanian transport administration,org,country,Finnish,loc
+Sabah Forest Industries,org,country,Malaysia,loc
+Sabah,loc,country,Malaysia,loc
+Sabah Forest Industries,org,headquarters location,Sabah,loc
+Outokumpu Technology,org,country,Finnish,loc
+Outokumpu Technology,org,industry,grinding technology,concept
+Partihallsf+Ârbindelsen bridge,loc,country,Sweden,loc
+Gothenburg,loc,country,Sweden,loc
+Partihallsf+Ârbindelsen bridge,loc,location,Gothenburg,loc
+Matti Tikkakoski,per,occupation,CEO,concept
+Matti Tikkakoski,per,employer,Atria,org
+Atria,org,chief executive officer,Matti Tikkakoski,per
+Sami Sarkamies,per,employer,Nordea,org
+Nordea,org,instance of,financial group,concept
+Nordea,org,part of,Nordic,concept
+Arvo Vuorenmaa,per,employer,Loviisa plant,org
+Loviisa plant,org,director / manager,Arvo Vuorenmaa,per
+Arvo Vuorenmaa,per,employer,Loviisa,org
+BasWare,org,inception,2007,date
+BasWare,org,"dissolved, abolished or demolished date",2007,date
+BasWare,org,chief executive officer,Ilkka Sihvo,per
+Cision,org,country,U.K.,loc
+Cision,org,headquarters location,U.K.,loc
+Pohjola Bank Group,org,country,Finland,loc
+Citigroup,org,stock exchange,NYSE,loc
+Finnair,org,country,Finland,loc
+Finnair PLC,org,country,Finland,loc
+Finnair,org,instance of,airline,concept
+Finnair,org,country,Finnish,loc
+Finnair PLC,org,country,Finnish,loc
+Finnair,org,instance of,carrier,concept
+Emirate of Fujairah,loc,country,UAE,loc
+Poyry Plc,org,country,Finnish,loc
+Grieg Shipping,org,country,Norwegian,loc
+Cargotec Oyj,org,country,Finnish,loc
+MacGregor hatch cover,concept,manufacturer,Grieg Shipping,org
+Partihallsforbindelsen bridge,loc,location,Gothenburg,loc
+Partihallsforbindelsen bridge,loc,country,Sweden,loc
+euro,concept,country,Sweden,loc
+Sweden,loc,currency,euro,concept
+outperform,concept,subclass of,recommendation,concept
+outperform,concept,instance of,recommendation,concept
+outperform,concept,facet of,stock,concept
+SysOpen Digia,org,owned by,IBM,org
+SysOpen,org,owned by,IBM,org
+SysOpen Digia,media,developer,IBM,org
+Outotec,org,inception,2007,date
+Outotec,org,"dissolved, abolished or demolished date",2007,date
+Pretax profit,media,currency,EUR,concept
+Pretax,org,currency,EUR,concept
+EBIT,media,measured physical quantity,Profitability,concept
+EBIT,concept,facet of,Profitability,concept
+previous-year period,concept,facet of,Profitability,concept
+Sales,media,country,SEK,loc
+mn,concept,country,SEK,loc
+mn,concept,part of,SEK,concept
+Savon koulutuskuntayhtyma,org,country,Finland,loc
+SKF AB,org,country,Swedish,loc
+Alandsbanken,org,country,Swedish,loc
+SKF,org,country,Swedish,loc
+prolonged winter season,concept,subclass of,Winter,concept
+prolonged winter season,concept,instance of,Winter,concept
+prolonged winter season,concept,instance of,Sports equipment sales,concept
+Tele2 AB,org,instance of,mobile operator,concept
+Tele2 AB,org,headquarters location,Affarsvarlden,loc
+Tele2 AB,org,subsidiary,TELE2 Affarsvarlden,org
+Aspocomp,org,subsidiary,Aspocomp,org
+Aspocomp,org,industry,financial,concept
+Aspocomp,org,significant event,acquisition,concept
+Bahia State,loc,country,Brazil,loc
+Bahia,loc,country,Brazil,loc
+Outokumpu Technology,org,country,Australia,loc
+Oborniki,org,country,Poland,loc
+Oborniki steel frame and sandwich panel plant,concept,country,Poland,loc
+The Group,org,industry,fishing,concept
+fishing,concept,instance of,categories,concept
+Group,org,industry,fishing,concept
+Componenta Group,org,country,Finnish,loc
+Componenta Group,org,subsidiary,Componenta +àm+Ñl,org
++àm+Ñl Components,org,country,Finnish,loc
+sales figures,media,country,Sweden,loc
+sales figures in Sweden,media,country,Sweden,loc
+sales figures in Sweden,media,location,Sweden,loc
+Goldman Sachs,org,subsidiary,UPM-Kymmene,org
+Goldman Sachs,org,item operated,UPM-Kymmene,misc
+Demand for sports equipment,concept,point in time,2005,date
+HKScan Group,org,owned by,Finlan,org
+HKScan,org,owned by,Finlan,org
+Finlan,org,subsidiary,HKScan Group,org
+Finnair,org,headquarters location,Helsinki,loc
+Cargotec 's Kalmar,org,country,Finnish,loc
+US Department of Defense,concept,country,Finnish,loc
+Cargotec 's Kalmar,org,country of origin,Finnish,loc
+Cargotec Germany,org,headquarters location,Mainz,loc
+Cargotec Germany GmbH,org,headquarters location,Mainz,loc
+Mainz,loc,instance of,Stadtverwaltung,loc
+eur,concept,instance of,market expectations,concept
+eur,concept,part of,market expectations,concept
+Nevsky Centre,loc,located in the administrative territorial entity,St Petersburg,loc
+Nevsky Centre,loc,country,Russia,loc
+St Petersburg,loc,country,Russia,loc
+Basware,org,instance of,software developer,concept
+Basware,org,country,Finnish,loc
+Finland,loc,part of,Scandinavia,loc
+Finland,loc,located on terrain feature,Scandinavia,loc
+Atria,org,country,Finland,loc
+Nordea,org,operating area,Baltic countries,concept
+Nordea,org,headquarters location,Baltic countries,concept
+Nordea,org,country,Baltic countries,concept
+mn,concept,instance of,EUR,concept
+operating profit,media,instance of,company,concept
+Productional situation,media,instance of,situation,concept
+Productional situation,concept,instance of,now,concept
+Kemijoki,loc,country,Finland,loc
+Kemijoki river,loc,country,Finland,loc
+Finland,loc,currency,eur,concept
+eur,concept,instance of,forecasts,concept
+eur,concept,instance of,forecast,concept
+VR Cargo,org,chief executive officer,Juha Malkia,per
+Juha Malkia,per,employer,VR Cargo,org
+VR Cargo,org,director / manager,Juha Malkia,per
+Wartsila,org,country,Finnish,loc
+scissor,concept,manufacturer,Wartsila,org
+scissors,concept,subclass of,consumer goods,concept
+previous year,eve,point in time,2010,date
+turnover,concept,facet of,turnover,concept
+EUR,concept,replaces,EPS,concept
+EPS,media,instance of,EUR,concept
+MEUR,concept,point in time,2007,date
+financial year,concept,part of,year,concept
+yearly savings,concept,facet of,financial year,concept
+financial year,concept,instance of,yearly savings,concept
+Oriola-KD,org,country,Finnish,loc
+Oriola,org,country,Finnish,loc
+Oriola-KD,org,industry,pharmaceutical wholesale,concept
+Turun kaupunkin,org,country,Finland,loc
+Turun kaupunki,loc,country,Finland,loc
+CVD,concept,subclass of,risk,concept
+CVD risk,concept,facet of,CVD,concept
+CVD,concept,subclass of,CVD risk,concept
+Uponor,org,country,US,loc
+decrease in residential construction in the US,concept,participant,Uponor,org
+decrease in residential construction,concept,country,US,loc
+mergers and acquisitions,concept,subclass of,legal affairs,concept
+mergers,concept,subclass of,acquisitions,concept
+mergers and acquisitions,concept,part of,legal affairs,concept
+ground,concept,part of,garden,concept
+plants,concept,part of,garden,concept
+plant,concept,part of,ground,concept
+engineering management,concept,subclass of,engineering,concept
+detail engineering,concept,subclass of,engineering,concept
+engineering management,concept,part of,engineering,concept
+skilled nursing,concept,subclass of,personal care,concept
+adult day care,concept,manufacturer,Addus,org
+skilled nursing,concept,manufacturer,Addus,org
+wholesale,concept,part of,retail,concept
+wholesale,concept,subclass of,retail,concept
+Aldata,org,industry,retail,concept
+Telenor,org,subsidiary,Alfa group,org
+Telenor,org,owned by,Alfa group,org
+Telenor,org,subsidiary,Alfa,org
+elevated cholesterol levels,concept,subclass of,elevated,concept
+elevated cholesterol levels,concept,subclass of,mildly,concept
+elevated cholesterol levels,concept,has cause,elevated,concept
+Arto Ryymin,per,date of birth,1964,date
+Juhani Kaisanlahti,per,date of birth,1964,date
+CapMan Haavisto,per,occupation,Accounting,concept
+CapMan Haavisto,per,occupation,Group Finances,concept
+Madison Square Garden Arena,loc,part of,Madison Square Garden,loc
+New York Knickerbockers,media,home venue,Madison Square Garden,loc
+New York Knickerbockers basketball,media,home venue,Madison Square Garden,loc
+CapMan Buyout,org,owned by,CapMan,org
+CapMan Technology,org,owned by,CapMan,org
+CapMan Life Science,org,owned by,CapMan,org
+CapMan Russia,org,owned by,CapMan,org
+CapMan Public Market,org,owned by,CapMan,org
+CapMan Real Estate,org,owned by,CapMan,org
+Jukka Ruuska,per,employer,CapMan,org
+CapMan,org,stock exchange,Stockholm Stock Exchange,org
+CapMan Plc,org,stock exchange,Stockholm Stock Exchange,org
+company history,concept,facet of,business operations,concept
+subsidiaries,concept,subclass of,company,concept
+company history,concept,subclass of,profile,concept
+Conference Call,concept,subclass of,conference call,concept
+Strand Associates,org,inception,1946,date
+Strand Associates,org,headquarters location,Wisconsin,loc
+Halonen,per,position held,office,per
+office,per,appointed by,Halonen,per
+office,per,chairperson,Halonen,per
+environmental measurement,concept,subclass of,technology,concept
+technology,concept,part of,science,concept
+environmental measurement,concept,instance of,technology,concept
+paper,concept,manufacturer,Lee & Man,org
+pulp,concept,manufacturer,Lee & Man,org
+shielding wall,concept,subclass of,movable,concept
+shielding wall,concept,part of,method,concept
+shielding wall,concept,part of,smelt spout,concept
+operations,concept,facet of,company,concept
+operations,concept,part of,company,concept
+Walter G++nter,per,country of citizenship,Finland,loc
+Le Lay,media,developer,Walter G++nter,per
+Le Lay,media,follows,Walter G++nter,per
+Lemminkainen Infra Oy,org,subsidiary,Lemminkainen Sverige AB,org
+Lemminkainen Infra,org,subsidiary,Lemminkainen Sverige AB,org
+Lemminkainen Infra,org,subsidiary,Lemminkainen Sverige,org
+Pacific Office Properties Trust,org,headquarters location,Honolulu,loc
+Pacific Office Properties Trust,org,headquarters location,Los Angeles,loc
+Comptel,org,subsidiary,Gibtelecom,org
+Gibtelecom,org,owned by,Comptel,org
+field and workflow management,concept,subclass of,asset tracking,concept
+field and workflow management,concept,subclass of,personal navigation,concept
+field and workflow management,concept,facet of,personal navigation,concept
+Satama and Trainers ' House,org,instance of,brands,concept
+Satama and Trainers ' House,org,instance of,business areas,concept
+Satama and Trainers ' House,org,instance of,brand,concept
+shareholders,concept,part of,company,concept
+salary,concept,facet of,company,concept
+EUR,concept,used by,shareholders,concept
+controller,concept,part of,appliance control module,concept
+wireless transmission,concept,subclass of,controller,concept
+controller,concept,connects with,appliance control module,concept
+appliance control module,concept,connects with,controller,concept
+Swedish business,org,country,Finland,loc
+Finland,loc,diplomatic relation,Swedish,loc
+Swedish,loc,diplomatic relation,Finland,loc
+Aalto University,loc,subsidiary,Helsinki,org
+Jyv+ñskyl+ñ,org,part of,Aalto University,loc
+Jyv+ñskyl+ñ,org,part of,Helsinki,org
+mid-swaps,concept,instance of,guidance,concept
+mid-swaps,concept,subclass of,guidance,concept
+mid-swap,concept,instance of,guidance,concept
+International Patent Publication No.,media,facet of,invention,concept
+International Patent Publication No.,concept,subclass of,invention,concept
+International Patent Publication No.,media,main subject,invention,concept
+Bylander Johan,per,spouse,Ponten Fredrik,per
+Lundberg Jorgen,per,doctoral advisor,Bylander Johan,per
+Ponten Fredrik,per,spouse,Bylander Johan,per
+Mukkavilli Krishna Kiran,per,spouse,Sabharwal Ashutosh,per
+Sabharwal Ashutosh,per,spouse,Mukkavilli Krishna Kiran,per
+Bao Yiliang,per,occupation,Inventors,concept
+Karczewicz Marta,per,occupation,Inventors,concept
+Ridge Justin,per,occupation,Inventors,concept
+The issuer,org,industry,announcement,concept
+The issuer,org,instance of,announcement,concept
+The issuer,org,field of work,announcement,concept
+"September 24, 2009",time,point in time,"September 24, 2009",date
+Cencorp,org,owned by,Savcor,org
+Savcor,org,subsidiary,FACE,org
+Savcor,org,subsidiary,Cencorp,org
+application No.,concept,applies to jurisdiction,Finland,loc
+application No.,concept,country,Finland,loc
+patent,concept,applies to jurisdiction,Finland,loc
+Avalon Minerals Ltd.,org,country,Swedish,loc
+Avalon Minerals Ltd.,org,country,Sweden,loc
+Avalon Minerals Ltd.,org,owned by,Swedish subsidiary,org
+Okmetic,org,headquarters location,Vantaa,loc
+Vantaa,loc,owned by,Okmetic,org
+Okmetic,org,location of formation,Vantaa,loc
+window opens up,concept,discoverer or inventor,Rosberg,per
+window,concept,part of,window,concept
+opens up,concept,facet of,window,concept
+content inspection,concept,manufacturer,Stonesoft,org
+Stonesoft,org,industry,content inspection,concept
+content inspection,concept,developer,Stonesoft,org
+credit card,concept,subclass of,personal details,concept
+credit card,concept,subclass of,details,concept
+credit card,concept,subclass of,information,concept
+Dopplr,media,instance of,service,concept
+Dopplr,media,instance of,smart travellers,concept
+Dopplr,media,use,smart travellers,concept
+TeliaSonera,org,country,Finland,loc
+Mats Odell,per,country of citizenship,Sweden,loc
+Corporate Governance,media,facet of,CapMan Plc,org
+CapMan Plc,org,instance of,Corporate Governance,concept
+CapMan Plc,org,industry,Corporate Governance,concept
+Finnair Technical Services,org,facet of,employment situation,concept
+Honkarakenne,org,country,Japan,loc
+Honka Japan,org,country,Japan,loc
+Honka Japan,org,chief executive officer,Marko Saarelainen,per
+Slovakia,loc,diplomatic relation,Finland,loc
+Statistics Office,loc,country,Slovakia,loc
+Seikku,media,country,Finland,loc
+Seikku,media,country of origin,Finland,loc
+historic analysis,concept,facet of,markets,concept
+historic analysis,concept,studies,markets,concept
+historic analysis,concept,facet of,market,concept
+six-year,concept,facet of,historic analysis,concept
+six-year historic analysis,concept,facet of,market,concept
+Russia Partners II,org,currency,USD5.0,concept
+Russia Partners II fund,org,currency,USD5.0,concept
+Patent Office,org,field of work,invention,concept
+pressurized,concept,subclass of,chamber,concept
+chamber,concept,manufacturer,Patent Office,org
+webcast,concept,subclass of,audio,concept
+Cerner,org,instance of,Web site,concept
+Cerner,org,industry,Web site,concept
+BasWare Order Matching,media,use,purchase orders,concept
+BasWare Order Matching,media,use,purchase order,concept
+purchase orders,concept,subclass of,purchase,concept
+Vaahto Group,org,country,Finland,loc
+Vaahto,org,country,Finland,loc
+CapMan,org,instance of,asset manager,concept
+CapMan,org,industry,asset manager,concept
+CapMan Technology,media,manufacturer,CapMan,org
+CapMan Buyout,media,manufacturer,CapMan,org
+town hall,loc,instance of,town,concept
+town hall,loc,instance of,town hall,concept
+close of trading,concept,point in time,"June 19, 2009",date
+close of trading,concept,end time,"June 19, 2009",date
+close of trading on Friday,concept,point in time,"June 19, 2009",date
+CHS Expo Freight,org,country,Finnish,loc
+Expo Freight,org,country,Finnish,loc
+CHS Expo Freight,org,industry,logistics,concept
+Competition authorities,concept,facet of,deal,concept
+Competition authorities,concept,studies,deal,concept
+Competition authorities,concept,part of,deal,concept
+Maija-Liisa Friman,per,occupation,CEO,concept
+Otto Henrik Bernhard Nyberg,per,occupation,shareholder,concept
+Maija-Liisa Friman,per,position held,CEO,concept
+Due Diligence,concept,subclass of,transaction,concept
+final agreement,media,instance of,Due Diligence,concept
+final agreement,concept,part of,Due Diligence,concept
+2011,time,point in time,2011,date
+Dragonfly Love,media,depicts,Nokia N8,misc
+Dragonfly Love,media,part of the series,Nokia N8,misc
+Dragonfly Love,media,platform,Nokia N8,misc
+Elcoteq,org,industry,Engineering,concept
+Elcoteq,org,industry,Manufacturing,concept
+Electronics Manufacturing Services,org,owned by,Elcoteq,org
+Salcomp,org,country,Finnish,loc
+Nordstjernan,org,country,Swedish,loc
+mobile phone charger,concept,manufacturer,Salcomp,org
+FirstAlert (tm),media,owned by,FinancialWire (tm),org
+FirstAlert(tm),media,owned by,FinancialWire(tm),org
+Basware,org,industry,shares,concept
+Basware,org,number of parts of this work,"12,890,829",num
+Basware,org,instance of,shares,concept
+TGK-10,misc,owned by,RAO UES,org
+Aspo,org,currency,euro,concept
+Aspo,org,industry,shares,concept
+euro,concept,instance of,intangible assets,concept
+Harold W. Young,per,occupation,broker,concept
+Harold W. Young,per,occupation,independent broker,concept
+Ahold USA,org,industry,retailer,concept
+Market Basket,org,industry,retailer,concept
+CVS,org,industry,retailer,concept
+BJ 's Wholesale Club,org,industry,retailer,concept
+Cumberland Farms,org,industry,retailer,concept
+Moscow region,loc,located in the administrative territorial entity,Russia,loc
+St Petersburg region,loc,located in the administrative territorial entity,Russia,loc
+Moscow,loc,located in the administrative territorial entity,Russia,loc
+St Petersburg,loc,located in the administrative territorial entity,Russia,loc
+Honkarakenne,org,country,Russia,loc
+Indosat,org,owned by,Nokia,org
+Nokia,org,subsidiary,Indosat,org
+Indosat 3G network,media,owned by,Nokia,org
+Mohammed Zainalabedin,per,country of citizenship,Bahrain,loc
+Zain,loc,country,Bahrain,loc
+Insurance policies,concept,subclass of,Insurance,concept
+Insurance policies,concept,part of,Insurance,concept
+Insurance policies,concept,facet of,Insurance,concept
+American Airlines,org,member of,OneWorld,org
+British Airways,org,member of,OneWorld,org
+hot water,concept,subclass of,heating,concept
+hot water,concept,used by,sawmill,concept
+hot water,concept,part of,sawmill,concept
+asset management,concept,studies,assets,concept
+asset management,concept,facet of,assets,concept
+assets,concept,part of,asset management,concept
+Jon Risfelt,per,educated at,Swedish Royal Institute of Technology,loc
+Jon Risfelt,per,educated at,Royal Institute of Technology,loc
+Jon Risfelt,per,field of work,Chemical Engineering,concept
+Juha Haapakoski,per,occupation,Editor-in-Chief,concept
+Juha Haapakoski,per,position held,Editor-in-Chief,concept
+Editor-in-Chief,concept,field of this occupation,publisher,concept
+Morvillars,loc,country,France,loc
+Loudeac,loc,country,France,loc
+Saint Marcel,loc,country,France,loc
+Lulea,loc,country,Sweden,loc
+LKAB,org,headquarters location,Lulea,loc
+LKAB,org,country,Sweden,loc
+cocktail glasses,concept,made from material,stainless steel,concept
+cocktail glass,concept,made from material,stainless steel,concept
+cocktail glasses,concept,subclass of,serving dishes,concept
+Institute of Museum and Library Services and Arts Midwest,org,sponsor,National Endowment for the Arts,org
+Institute of Museum and Library Services and Arts Midwest,org,affiliation,National Endowment for the Arts,org
+Neste Oil Corporation Refining Operation Asset Summary Report,media,publisher,Neste Oil Corporation,org
+Neste Oil Corporation Refining Operation Asset Summary Report,media,part of,Neste Oil Corporation Refining Operation Assets Summary Report,media
+outstanding shares,concept,subclass of,shares,concept
+outstanding shares,concept,facet of,shares,concept
+voting rights,concept,facet of,shares,concept
+Oka,org,industry,new construction,concept
+renovation,concept,subclass of,new construction,concept
+renovation work,concept,subclass of,new construction,concept
+Okmetic Board of Directors,org,industry,share ownership,concept
+Okmetic Board of Directors,org,industry,share ownership program,concept
+Okmetic,org,industry,share ownership,concept
+Panostaja,org,headquarters location,Tampere,loc
+Panostaja,org,country,Finland,loc
+Tampere,loc,country,Finland,loc
+Pertti Ervi,per,employer,Company,org
+Pertti Ervi,org,owned by,Company,org
+Company,org,chief executive officer,Pertti Ervi,per
+Johanna Koskinen,per,occupation,IR,concept
+Johanna Koskinen,per,position held,IR,concept
+Prothious Engineering,org,industry,detailing,concept
+Prothious Engineering,org,industry,detailing capacity,concept
+Bretagne,loc,country,France,loc
+Loudeac,loc,located in the administrative territorial entity,Bretagne,loc
+Waterqueen,loc,country,France,loc
+Rapala,media,instance of,games,concept
+Rapala,media,instance of,game,concept
+Rapala,media,genre,bargain,concept
+RFID,concept,subclass of,intelligent transport,concept
+RFID,concept,use,intelligent transport,concept
+Radio Frequency Identification,concept,subclass of,intelligent transport,concept
+Executive Committee,concept,part of,Board of Directors,concept
+Executive Committee,concept,subclass of,Board of Directors,concept
+Wellingborough,loc,country,UK,loc
+Sarantel,org,headquarters location,Wellingborough,loc
+Sarantel,org,country,UK,loc
+OMX Helsinki,org,stock exchange,NASDAQ,misc
+NASDAQ OMX Helsinki,org,industry,shares,concept
+NASDAQ OMX Helsinki,org,industry,acquisition of own shares,concept
+Krister Kylas,per,employer,TeliaSonera,org
+TeliaSonera,org,chief executive officer,Krister Kylas,per
+TeliaSonera,org,founded by,Krister Kylas,per
+Shuweihat 2,misc,instance of,power contractor,concept
+Shuweihat 2,misc,inception,July 2008,date
+Shuweihat 2,misc,service entry,July 2008,date
+Defense Credit Union Council,org,part of,DCUC,org
+Gordon A. Simmons,per,member of,Defense Credit Union Council,org
+Gordon A. Simmons,per,occupation,CEO,concept
+Annual Report,media,publisher,Sanoma,org
+Annual Report and Financial Statements for 2010,media,point in time,2010,date
+Annual Report and Financial Statements,media,publisher,Sanoma,org
+Nordea Bank,org,headquarters location,Stockholm,loc
+Nordea Bank,org,chief executive officer,Casper von Koskull,per
+Nordic Large Cap,concept,instance of,market cap,concept
+Mid Cap,concept,instance of,market cap,concept
+Small Cap,concept,instance of,market cap,concept
+Nordic Large Cap,concept,subclass of,market cap,concept
+Mid Cap,concept,subclass of,market cap,concept
+Small Cap,concept,subclass of,market cap,concept
+Aldata GOLD,misc,manufacturer,Symphony Services,org
+Symphony Services,org,item operated,Aldata GOLD,media
+Tekla,org,industry,3D software,concept
+Tekla,org,instance of,software,concept
+Tekla,media,instance of,3D software,concept
+Teleste,org,industry,fibre-coaxial,concept
+EttH,media,manufacturer,Teleste,org
+HFC,media,manufacturer,Teleste,org
+agreement,concept,subclass of,contract,concept
+agreement,concept,subclass of,agreement,concept
+The agreement,concept,instance of,agreement,concept
+Sappi,org,subsidiary,UPM-Kymmene,org
+Stora Enso,org,subsidiary,UPM-Kymmene,org
+UPM-Kymmene,org,instance of,broker,concept
+Stora Enso,org,instance of,broker,concept
+Sappi,org,instance of,broker,concept
+Kemira,org,subsidiary,Lanxess,org
+Kemira,org,owned by,Lanxess,org
+Lanxess,org,owned by,Kemira,org
+sustainability report,media,publisher,Ahlstrom,org
+sustainability report,media,author,Ahlstrom,org
+2000,time,point in time,2000,date
+financially feasible,concept,subclass of,project,concept
+financially feasible,concept,facet of,project,concept
+The company,org,industry,financially feasible,concept
+Forssa,loc,located in the administrative territorial entity,Vantaa,loc
+Forssa facilities,loc,located in the administrative territorial entity,Vantaa,loc
+Vantaa facilities,concept,different from,Forssa facilities,loc
+Forssa facilities,loc,different from,Vantaa facilities,concept
+temporary electrification,concept,subclass of,heating,concept
+electrification,concept,subclass of,heating,concept
+heating,concept,subclass of,electrification,concept
+"February 1, 2010",time,point in time,"February 1, 2010",date
+"January 19, 2010",time,point in time,"January 19, 2010",date
+non-recurring expenses,concept,subclass of,expenses,concept
+non-recurring expenses,concept,subclass of,expense,concept
+non-recurring expense,concept,subclass of,expense,concept
+Kauppalehti,media,country of origin,Finnish,loc
+Kauppalehti,media,country,Finnish,loc
+Extraordinary General Meeting,media,start time,18 February 2011,date
+Extraordinary General Meeting,media,inception,18 February 2011,date
+Extraordinary General Meeting,media,point in time,18 February 2011,date
+2012,time,start time,2012,date
+2012,concept,point in time,2012,date
+Loudeac,loc,shares border with,Saint Marcel,loc
+Saint Marcel,loc,shares border with,Loudeac,loc
+Saint Marcel,loc,located in the administrative territorial entity,Loudeac,loc
+TEU,concept,subclass of,container,concept
+The Group,org,industry,railway,concept
+The Group,org,industry,railway rolling stock,concept
+sandals,concept,subclass of,footwear,concept
+sandal,concept,subclass of,footwear,concept
+boots,concept,subclass of,footwear,concept
+Lemminkainen Group,org,headquarters location,Helsinki,loc
+Lemminkainen Group,org,country,Finland,loc
+Lemminkainen,org,headquarters location,Helsinki,loc
+Lemminkainen,org,country,Finland,loc
+Marubeni Group,org,industry,value chain,concept
+Marubeni Group,org,instance of,business,concept
+Marubeni Group,org,instance of,business fields,concept
+dividend,concept,subclass of,shareholder rights,concept
+B shares,concept,subclass of,shares,concept
+B shares,concept,instance of,shares,concept
+Cannon Street,loc,instance of,station,concept
+Cannon Street,loc,instance of,underground station,concept
+Cannon Street,loc,adjacent station,station,loc
+station,loc,adjacent station,Cannon Street,loc
+pulse rate,concept,subclass of,blood-oxygen saturation level,concept
+Oxyview Pulse Oximeter,misc,use,pulse rate,concept
+pulse rate,concept,subclass of,blood-oxygen saturation,concept
+St. Petersburg,loc,instance of,capital,concept
+St. Petersburg,loc,capital,St. Petersburg status,loc
+St. Petersburg,loc,located in the administrative territorial entity,St. Petersburg status,loc
+specialty chemicals,concept,subclass of,companies,concept
+specialty chemicals,concept,instance of,companies,concept
+specialty chemicals companies,concept,subclass of,companies,concept
+"Fiskars Brands, Inc.",org,owned by,Fiskars Corporation,org
+"Fiskars Brands, Inc.",org,subsidiary,Black & Decker Corporation,org
+"Fiskars Brands, Inc.",org,subsidiary,Fiskars Corporation,org
+desktop client,concept,subclass of,application,concept
+client application,concept,part of,desktop,concept
+client application,concept,subclass of,server,concept
+share capital,concept,facet of,shareholders,concept
+share capital,concept,facet of,shareholder,concept
+share capital,concept,used by,shareholders,concept
+repurchased,concept,part of,public trading,concept
+repurchased,concept,facet of,public trading,concept
+shareholders,concept,part of,public trading,concept
+filter,concept,manufacturer,filter sales,concept
+filter,concept,used by,filter sales,concept
+filters,concept,manufacturer,filter sales,concept
+USD,concept,replaces,SEK,concept
+SEK,concept,part of,USD,concept
+SEK,concept,replaces,USD,concept
+agreement announced on 26 March 2008,media,point in time,26 March 2008,date
+agreement announced,media,point in time,26 March 2008,date
+next spring,concept,follows,spring,concept
+spring,concept,follows,spring,concept
+next spring,concept,part of,spring,concept
+Lemmink+ñinen -¦ s history,concept,author,Antti Tuuri,per
+Lemmink+ñinen,org,founded by,Antti Tuuri,per
+mobile phone,concept,use,Personal Communications,concept
+mobile phone,concept,manufacturer,Personal Communications,concept
+mobile phone,concept,subclass of,Personal Communications,concept
+Deka Showroom,loc,location,Fortitude Valley,loc
+Deka Showroom,loc,located in the administrative territorial entity,Fortitude Valley,loc
+full-year guidance for 2010,concept,point in time,2010,date
+Utah,loc,country,U.S.,loc
+Amer Sports Corp.,org,headquarters location,Utah,loc
+Utah,loc,subsidiary,Amer Sports Corp.,org
+Watchtower,loc,height,120,num
+Watchtower,loc,country,Ireland,loc
+new ship,misc,owned by,Viking,org
+new ship,misc,service entry,January 2008,date
+Viking,org,inception,January 2008,date
+Assa Abloy AB,org,country,Swedish,loc
+Assa Abloy AB,org,industry,lock maker,concept
+ASSA ABLOY,org,country,Swedish,loc
+traffic patterns,concept,instance of,aim,concept
+traffic patterns,concept,part of,Our aim,concept
+traffic patterns,concept,facet of,building,concept
+Vaalipalvelu,media,instance of,service,concept
+Vaalipalvelu-service,media,instance of,service,concept
+Vaalipalvelu-service,media,subclass of,service,concept
+wireless handset,concept,subclass of,wireless carriers,concept
+wireless handset,concept,used by,wireless carriers,concept
+wireless handset,concept,subclass of,wireless carrier,concept
+18:30 Dinner,media,instance of,webcast,concept
+18:30 Dinner,media,instance of,citycon,concept
+18:30 Dinner,media,part of the series,citycon,media
+PLUMBING,org,sport,darts,concept
+professional darts player,concept,field of this occupation,PLUMBING,concept
+darts,concept,manufacturer,PLUMBING,concept
+A. Le Coq Special,misc,instance of,trade mark,concept
+A. Le Coq Special,misc,instance of,brewer,concept
+Airtel,org,subsidiary,Tata,org
+Tata,org,subsidiary,Airtel,org
+Tata,org,instance of,brands,concept
+Airtel,org,instance of,brands,concept
+Kaukomarkkinat,org,industry,electronics,concept
+Kaukomarkkinat,org,industry,electronics business,concept
+Kaukomarkkinat,org,owned by,Aspo,org
+B option right,concept,inception,"May 2, 2006",date
+"May 2, 2006",time,point in time,"May 2, 2006",date
+B option right,concept,start time,"May 2, 2006",date
+newspaper,concept,subclass of,business result,concept
+newspaper,concept,has quality,business result,concept
+newspaper,concept,subclass of,business,concept
+Capitex Kalmar,org,headquarters location,Kalmar,loc
+Capitex Kalmar,org,owned by,Kalmar,org
+reinforced concrete,concept,made from material,GRC glass,concept
+reinforced concrete,concept,manufacturer,GRC,org
+reinforced concrete,concept,made from material,steel,concept
+stainless steel,concept,made from material,stainless steel,concept
+stainless steel,concept,instance of,industries,concept
+stainless steel,concept,manufacturer,stainless steel and services,org
+Exel,org,industry,industrial,concept
+Exel,org,industry,industrial customers,concept
+products,concept,manufacturer,Exel,org
+Pohjola Bank Plc,org,country,Finnish,loc
+POH1S,org,country,Finnish,loc
+Pohjola Bank Plc HEL,org,country,Finnish,loc
+Asfaltti Osakeyhti+Â Lemmink+ñinen,org,inception,1910,date
+Merisatama,loc,located in the administrative territorial entity,Helsinki,loc
+Asfaltti Osakeyhti+Â Lemmink+ñinen,org,headquarters location,Helsinki,loc
+Online Wellbeing Survey,media,publisher,F-Secure,org
+Online Wellbeing Survey,media,organizer,F-Secure,org
+F-Secure,org,instance of,Internet Service Provider,org
+Kemira,org,inception,2008,date
+Kemira,org,"dissolved, abolished or demolished date",2008,date
+Alma Media,org,currency,EUR,concept
+Alma Media,org,industry,share,concept
+Alma Media,org,inception,2006,date
+Penttil+ñ,org,country,Russia,loc
+Russia,loc,part of,Penttil+ñ,concept
+treble,concept,made from material,resin,concept
+treble,concept,subclass of,resin,concept
+real 14-0,concept,subclass of,resin,concept
+magnetite,concept,manufacturer,Karara,loc
+Karara,loc,instance of,magnetite deposit,concept
+magnetite deposit,loc,located in the administrative territorial entity,Karara,loc
+United Supermarkets,org,subsidiary,Market Street,org
+Market Street,org,owned by,United Supermarkets,org
+United Supermarkets,org,subsidiary,United Supermercado,org
+Kaupthing Bank,org,inception,2007,date
+annual results for 2007,concept,point in time,2007,date
+UK,loc,continent,Europe,loc
+AFX News,media,country,UK,loc
+AFX,org,country,UK,loc
+The fine print,concept,instance of,fine print,concept
+The fine print is here,concept,instance of,fine print,concept
+MBA,concept,different from,Master of Business Administration,concept
+MBA,concept,subclass of,Master of Business Administration,concept
+Master of Business Administration,concept,different from,MBA,concept
+branch libraries,concept,part of,library system,concept
+branch libraries,concept,subclass of,library,concept
+HKScan,org,industry,HR,concept
+HKScan,org,owned by,Group,org
+HKScan,org,owned by,Group `s,org
+Espoo,loc,country,Finland,loc
+M Real OYJ,org,country,Finland,loc
+M Real OYJ,org,located in the administrative territorial entity,Espoo,loc
+Nokia Siemens Networks,org,industry,mobile,concept
+Nokia Siemens Networks,org,industry,networks service platforms,concept
+group companies,concept,subclass of,Company,concept
+group companies,concept,part of,Company,concept
+Outotec,org,industry,engineering,concept
+Outotec,org,industry,calcination plant,concept
+Outotec,org,industry,sinter plant,concept
+Outotec,org,industry,sinter,concept
+Outotec,org,instance of,sinter plant,concept
+"2005 silver, four-door Altima",misc,point in time,2005,date
+Altima,misc,inception,2005,date
+Peigs,concept,owned by,Sardus Latta Maltider Light Meals,org
+Peigs www.peigs.se,concept,owned by,Sardus Latta Maltider Light Meals,org
+breakfast cereal,concept,subclass of,baked goods,concept
+breakfast cereals,concept,subclass of,baked goods,concept
+baked goods,concept,subclass of,breakfast cereals,concept
+Quality charger,concept,manufacturer,CHARGZ,org
+Quality chargers,concept,manufacturer,CHARGZ,org
+Helsingin Sanomat,media,owned by,Sanoma Corporation,org
+Helsingin Sanomat,media,publisher,Sanoma Corporation,org
+Helsingin Sanomat,media,owned by,S Group,org
+Chief Business Excellence Officer,per,"languages spoken, written or signed",Eng,concept
+SCOPI Chief Business Excellence Officer,per,"languages spoken, written or signed",Eng,concept
+Chief Business Excellence Officer,per,country,Eng,loc
+playbook of the East Dillon Lions,org,main subject,East Dillon Lions,org
+playbook,org,author,East Dillon Lions,org
+Tekla,org,headquarters location,Espoo,loc
+Tekla,org,country,Finland,loc
+WTC Helsinki Marski,loc,located on street,Aleksanterinkatu,loc
+Aleksanterinkatu,loc,located in the administrative territorial entity,Helsinki,loc
+Aleksanterinkatu,loc,location,WTC Helsinki Marski,loc
+Chairman of the Board,per,part of,Board of Directors,concept
+Deputy Chairman of the Board,per,part of,Board of Directors,concept
+Chairman of the Board,per,substitute/deputy/replacement of office/officeholder,Deputy Chairman of the Board,per
+boxboard,concept,manufacturer,board machine,concept
+boxboard,concept,fabrication method,board machine,concept
+folding boxboard,concept,manufacturer,board machine,concept
+Section 9,org,part of,Finnish Securities Markets Act,media
+Chapter 2,org,part of,Finnish Securities Markets Act,media
+Section 9 of the Finnish Securities Markets Act,media,part of,Finnish Securities Markets Act,media
+Degerfors,loc,country,Sweden,loc
+Willich,loc,country,Germany,loc
+alpine,concept,subclass of,Nordic Walking,concept
+floorball stick,concept,sport,Nordic Walking,concept
+alpine,concept,sport,Nordic Walking,concept
+Tekla,org,country,State of Finland,loc
+EADS N.V. Tekla,org,country,Finland,loc
+Ragot,org,headquarters location,Loudeac,loc
+Loudeac,loc,country,French,loc
+Normandy,loc,country,French,loc
+Saint Marcel,loc,country,French,loc
+Morvillars,loc,country,French,loc
+China State Construction Engineering Corporation,org,industry,shopping center,concept
+China State Construction Engineering Corporation,org,item operated,shopping center,concept
+China State Construction Engineering Corporation,org,instance of,contractor,concept
+its entirety,org,instance of,chapter,concept
+its entirety,org,part of,chapter,org
+www.cargotec.com,concept,instance of,webcast,concept
+live webcast,concept,subclass of,broadcast,concept
+cargotec.com,concept,instance of,webcast,concept
+,,EUR,,concept
+newsprint,concept,subclass of,mill,concept
+newsprint line,concept,subclass of,mill,concept
+newsprint line,concept,part of,mill,concept
+price,concept,facet of,electricity network,concept
+price,concept,facet of,electricity networks,concept
+electricity network,concept,facet of,price,concept
+EUR,concept,unemployment rate,15,num
+EUR15m,concept,instance of,order,concept
+EUR,concept,replaces,15m,concept
+USD12.2 m,concept,instance of,order,concept
+USD,concept,instance of,order,concept
+shares,concept,manufacturer,Aspo,org
+Aspo shares,org,owned by,Board,org
+"March 14, 2008",time,point in time,"March 14, 2008",date
+Samsung Mobile Applications Store,media,inception,January 2009,date
+Samsung Mobile Applications Store,media,developer,Samsung,org
+active plaque psoriasis,concept,subclass of,antibody,concept
+plaque psoriasis,concept,has cause,antibody,concept
+antibody,concept,has quality,pharmacokinetics,concept
+EUR,concept,instance of,donation amount,concept
+EUR,concept,instance of,donation,concept
+EUR,concept,unemployment rate,40,num
+EUR40m,concept,replaces,EUR40,concept
+EUR40m,concept,width,EUR40,num
+m,concept,measured physical quantity,duration,concept
+EUR,concept,replaces,m,concept
+EUR11.5 m,concept,instance of,project duration,concept
+square metres,concept,part of,scope,concept
+square metres,concept,subclass of,scope,concept
+square metres,concept,instance of,scope,concept
+customer,concept,part of,operations,concept
+customer,concept,facet of,operations,concept
+customer relationships,concept,subclass of,operations,concept
+Brazil,org,country,Brazil,loc
+Brazil,org,inception,8 May 2006,date
+This organization,org,country,Russia,loc
+Russia,loc,instance of,organization,concept
+Russia,loc,member of,organization,org
+goodwill,concept,part of,balance sheet,concept
+balance sheet,media,facet of,EUR,concept
+goodwill,concept,facet of,balance sheet,concept
+Nordea,org,country,Finland,loc
+Timo Penttila,per,country of citizenship,Finland,loc
+Timo Penttila,per,employer,Nordea,org
+New Haven Register,media,instance of,newspaper,concept
+New Haven Register,media,place of publication,New Haven,loc
+New Haven Register,media,located in the administrative territorial entity,New Haven,loc
+exchange,org,headquarters location,Helsinki,loc
+exchange,loc,located in the administrative territorial entity,Helsinki,loc
+UPM-Kymmene,media,instance of,magazine,concept
+UPM-Kymmene,org,industry,newsprint,concept
+Finnair,org,chief executive officer,Vehvilainen,per
+Finnair,org,owned by,Nokia Siemens Networks,org
+Finnair,org,subsidiary,Nokia Siemens Networks,org
+nitrogen,concept,manufacturer,Yara Suomi,org
+nitrate,concept,manufacturer,Yara Suomi,org
+Yara Suomi,org,industry,industry,concept
+Sanoma,org,country,Finnish,loc
+Sanoma Learning & Literature,org,country,Finnish,loc
+Nobel Biocare,org,inception,2007,date
+passenger car,concept,subclass of,commercial vehicle,concept
+passenger cars,concept,subclass of,commercial vehicle,concept
+passenger cars,concept,subclass of,commercial vehicles,concept

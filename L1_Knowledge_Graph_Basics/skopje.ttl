@@ -1,0 +1,1244 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://dbpedia.org/property/> .
+@prefix ns2: <http://dbpedia.org/ontology/> .
+@prefix ns3: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix ns4: <http://www.georss.org/georss/> .
+@prefix ns5: <http://purl.org/linguistics/gold/> .
+@prefix ns6: <http://dbpedia.org/ontology/PopulatedPlace/> .
+@prefix ns7: <http://schema.org/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://finki.ukim.mk/> a foaf:Organization ;
+    rdfs:label "Faculty of Computer Science and Engineering, Skopje" ;
+    ns2:location <http://dbpedia.org/resource/Skopje> .
+
+<http://dbpedia.org/resource/Skopje> a ns2:Location,
+        ns2:Place,
+        ns2:PopulatedPlace,
+        ns2:Settlement,
+        ns7:City,
+        ns7:Place,
+        owl:Thing,
+        ns3:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q515> ;
+    rdfs:label "إسكوبية"@ar,
+        "Skopje"@ca,
+        "Skopje"@cs,
+        "Skopje"@de,
+        "Σκόπια"@el,
+        "Skopje"@en,
+        "Skopjo"@eo,
+        "Skopie"@es,
+        "Skopje"@eu,
+        "Skopje"@fr,
+        "Scóipé"@ga,
+        "Skopje"@in,
+        "Skopje"@it,
+        "スコピエ"@ja,
+        "스코페"@ko,
+        "Skopje"@nl,
+        "Skopje"@pl,
+        "Escópia"@pt,
+        "Скопье"@ru,
+        "Skopje"@sv,
+        "Скоп'є"@uk,
+        "斯科普里"@zh ;
+    ns6:areaMetro "1854.0"^^<http://dbpedia.org/datatype/squareKilometre> ;
+    ns6:areaTotal "571.46"^^<http://dbpedia.org/datatype/squareKilometre> ;
+    ns6:areaUrban "337.8"^^<http://dbpedia.org/datatype/squareKilometre> ;
+    ns2:areaCode "+389 2" ;
+    ns2:areaMetro 1854000000 ;
+    ns2:areaTotal 571460000 ;
+    ns2:areaUrban 337800000 ;
+    ns2:country <http://dbpedia.org/resource/Macedonia> ;
+    ns2:demonym "Skopjan"@en ;
+    ns2:description "عاصمة جمهورية شمال مقدونيا"@ar,
+        "لعاصمة د مقدونيا الشمالية"@ary,
+        "تجمع سكان فى جرياتير سكوپچ"@arz,
+        "Şimali Makedoniyanın paytaxtı"@az,
+        "сталіца Рэспублікі Македонія"@be,
+        "столица на Северна Македония"@bg,
+        "ম্যাসিডোনিয়া প্রজাতন্ত্রের রাজধানী"@bn,
+        "glavni i najveći grad Sjeverne Makedonije"@bs,
+        "capital de Macedònia del Nord"@ca,
+        "شارێک لە مەقەدۆنیای باکوور"@ckb,
+        "hlavní město Severní Makedonie"@cs,
+        "Nordmakedoniens hovedstad"@da,
+        "Hauptstadt Nordmazedoniens"@de,
+        "Πρωτεύουσα της Βόρειας Μακεδονίας"@el,
+        "capital city of North Macedonia"@en,
+        "ĉefurbo de Nord-Makedonio"@eo,
+        "capital de Macedonia del Norte"@es,
+        "Põhja-Makedoonia Vabariigi pealinn"@et,
+        "پایتخت مقدونیه"@fa,
+        "Pohjois-Makedonian pääkaupunki"@fi,
+        "capitale de la Macédoine du Nord"@fr,
+        "glavni grad Republike Makedonije"@hbs,
+        "glavni grad Sjeverne Makedonije"@hr,
+        "stolica Sewjerneje Makedonskeje"@hsb,
+        "Észak-Macedónia fővárosa"@hu,
+        "ibu kota Makedonia Utara"@in,
+        "höfuðborg Norður-Makedóníu"@is,
+        "capitale della Repubblica di Macedonia del Nord"@it,
+        "בירת מקדוניה הצפונית"@iw,
+        "北マケドニア共和国の首都"@ja,
+        "북마케도니아의 수도"@ko,
+        "главен град на Македонија"@mk,
+        "belt kapitali ta-Maċedonja ta' Fuq"@mt,
+        "म्यासिडोनिया गणतन्त्रको राजधानी सहर"@ne,
+        "hoofdstad van Noord-Macedonië"@nl,
+        "hovudstaden i Nord-Makedonia"@nn,
+        "stolica Macedonii Północnej"@pl,
+        "capital da Macedónia do Norte"@pt,
+        "capitala Macedoniei de Nord"@ro,
+        "столица Республики Северная Македония"@ru,
+        "hlavné mesto Macedónska"@sk,
+        "glavno mesto Severne Makedonije"@sl,
+        "qytet në Maqedoni"@sq,
+        "главни град Републике Северне Македоније"@sr,
+        "Nordmakedoniens huvudstad"@sv,
+        "Kuzey Makedonya'nın başkenti"@tr,
+        "столиця Північної Македонії"@uk,
+        "thủ đô và là thành phố lớn nhất của Bắc Macedonia"@vi,
+        "北馬其頓首都"@zh ;
+    ns2:elevation 240 ;
+    ns2:isoCodeRegion "MK-85" ;
+    ns2:politicalLeader <http://dbpedia.org/resource/Skopje__PoliticalFunction__1> ;
+    ns2:populationTotal "526502"^^xsd:nonNegativeInteger ;
+    ns2:postalCode "МК-10 00" ;
+    ns2:subdivision <http://dbpedia.org/resource/Skopje>,
+        <http://dbpedia.org/resource/Skopje_Statistical_Region> ;
+    ns2:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_view_from_Kale_3.jpg?width=300> ;
+    ns2:timeZone <http://dbpedia.org/resource/Central_European_Summer_Time>,
+        <http://dbpedia.org/resource/Central_European_Time> ;
+    ns2:type <http://dbpedia.org/resource/Capital_city> ;
+    ns2:utcOffset "+01:00",
+        "+02:00" ;
+    ns2:wikiPageExternalLink <http://advisortravelguide.com/skopje-between-byzantine-and-ottomans/>,
+        <http://www.skopje.gov.mk/en>,
+        <https://books.google.com/books%3Fid=FTw3lEqi2-oC&pg=PA40&dq=serbia++annexed++1912%23v=onepage&q=serbia%20%20annexed%20%201912&f=false>,
+        <https://books.google.com/books%3Fid=Up4JAQAAIAAJ>,
+        <https://books.google.com/books%3Fid=sgfc1TosZGYC&pg=PA43&dq=antiquization&hl=en&sa=X&ei=aW0VT52IIJHXsgbZ6vgX&redir_esc=y%23v=onepage&q=antiquization&f=false>,
+        <https://web.archive.org/web/20110426114127/http:/vecer.com.mk/galerii/skopje/index.html>,
+        <https://web.archive.org/web/20130524191452/https:/discoverskopje.net.ms/> ;
+    ns2:wikiPageWikiLink <http://dbpedia.org/resource/1960_Agadir_earthquake>,
+        <http://dbpedia.org/resource/1963_Skopje_earthquake>,
+        <http://dbpedia.org/resource/2008_European_Women's_Handball_Championship>,
+        <http://dbpedia.org/resource/2017_UEFA_Super_Cup>,
+        <http://dbpedia.org/resource/4th_millennium_BC>,
+        <http://dbpedia.org/resource/AEC_Routemaster>,
+        <http://dbpedia.org/resource/Above_and_Beyond_(band)>,
+        <http://dbpedia.org/resource/Acid_jazz>,
+        <http://dbpedia.org/resource/Activism>,
+        <http://dbpedia.org/resource/Adolf_Ciborowski>,
+        <http://dbpedia.org/resource/Adriatic_sea>,
+        <http://dbpedia.org/resource/Aegean_Sea>,
+        <http://dbpedia.org/resource/Aerodrom_Municipality_(Skopje)>,
+        <http://dbpedia.org/resource/Aeroput>,
+        <http://dbpedia.org/resource/Al_Di_Meola>,
+        <http://dbpedia.org/resource/Albania>,
+        <http://dbpedia.org/resource/Albanian_people>,
+        <http://dbpedia.org/resource/Albanians_in_North_Macedonia>,
+        <http://dbpedia.org/resource/Albanoi>,
+        <http://dbpedia.org/resource/Alberto_Burri>,
+        <http://dbpedia.org/resource/Alexander_Calder>,
+        <http://dbpedia.org/resource/Alliance_for_Albanians>,
+        <http://dbpedia.org/resource/Alliance_française>,
+        <http://dbpedia.org/resource/American_Corner>,
+        <http://dbpedia.org/resource/Ancient_Greek>,
+        <http://dbpedia.org/resource/Andrey_Damyanov>,
+        <http://dbpedia.org/resource/André_Masson>,
+        <http://dbpedia.org/resource/Ankara>,
+        <http://dbpedia.org/resource/Antenna_5_FM>,
+        <http://dbpedia.org/resource/Anti-fascist_Assembly_for_the_National_Liberation_of_Macedonia>,
+        <http://dbpedia.org/resource/Application_software>,
+        <http://dbpedia.org/resource/Aquifer>,
+        <http://dbpedia.org/resource/Aračinovo_Municipality>,
+        <http://dbpedia.org/resource/ArcelorMittal>,
+        <http://dbpedia.org/resource/Armenian_people>,
+        <http://dbpedia.org/resource/Armin_van_Buuren>,
+        <http://dbpedia.org/resource/Armée_française_d'Orient>,
+        <http://dbpedia.org/resource/Aromanian_language>,
+        <http://dbpedia.org/resource/Aromanians>,
+        <http://dbpedia.org/resource/Aromanians_in_North_Macedonia>,
+        <http://dbpedia.org/resource/Athens>,
+        <http://dbpedia.org/resource/Augustus>,
+        <http://dbpedia.org/resource/Austria>,
+        <http://dbpedia.org/resource/Avant-garde_jazz>,
+        <http://dbpedia.org/resource/Balkan>,
+        <http://dbpedia.org/resource/Balkan_Wars>,
+        <http://dbpedia.org/resource/Balkan_music>,
+        <http://dbpedia.org/resource/Balkan_peninsula>,
+        <http://dbpedia.org/resource/Balkans>,
+        <http://dbpedia.org/resource/Barbarian_invasions>,
+        <http://dbpedia.org/resource/Bardovci>,
+        <http://dbpedia.org/resource/Bashibozuk>,
+        <http://dbpedia.org/resource/Basil_II>,
+        <http://dbpedia.org/resource/Battle_of_Maritsa>,
+        <http://dbpedia.org/resource/Battle_of_Vienna>,
+        <http://dbpedia.org/resource/Bedesten>,
+        <http://dbpedia.org/resource/Belgrade>,
+        <http://dbpedia.org/resource/Berziti>,
+        <http://dbpedia.org/resource/Besa_Movement>,
+        <http://dbpedia.org/resource/Bitola>,
+        <http://dbpedia.org/resource/Black_sea>,
+        <http://dbpedia.org/resource/Blues_Wire>,
+        <http://dbpedia.org/resource/Bolshoi_Theatre>,
+        <http://dbpedia.org/resource/Boril_of_Bulgaria>,
+        <http://dbpedia.org/resource/Boris_Trajkovski>,
+        <http://dbpedia.org/resource/Boris_Trajkovski_Sports_Center>,
+        <http://dbpedia.org/resource/Bosnia_and_Herzegovina>,
+        <http://dbpedia.org/resource/Bosniaks_in_North_Macedonia>,
+        <http://dbpedia.org/resource/Boyar>,
+        <http://dbpedia.org/resource/Bratislava>,
+        <http://dbpedia.org/resource/British_Council>,
+        <http://dbpedia.org/resource/Bronze_Age>,
+        <http://dbpedia.org/resource/Brotherhood_and_Unity_Highway>,
+        <http://dbpedia.org/resource/Brutalist_architecture>,
+        <http://dbpedia.org/resource/Bulgaria>,
+        <http://dbpedia.org/resource/Bulgaria_during_World_War_II>,
+        <http://dbpedia.org/resource/Bulgarian_Exarchate>,
+        <http://dbpedia.org/resource/Bulgarian_Millet>,
+        <http://dbpedia.org/resource/Bulgarian_People's_Army>,
+        <http://dbpedia.org/resource/Bulgarian_coup_d'état_of_1944>,
+        <http://dbpedia.org/resource/Bulgarian_occupation_of_Serbia_(World_War_I)>,
+        <http://dbpedia.org/resource/Butel_Municipality>,
+        <http://dbpedia.org/resource/Butel_municipality>,
+        <http://dbpedia.org/resource/Bylazora>,
+        <http://dbpedia.org/resource/Byzantine_Catholic_Apostolic_Exarchate_of_Macedonia>,
+        <http://dbpedia.org/resource/Byzantine_Empire>,
+        <http://dbpedia.org/resource/Byzantine_Revival_architecture>,
+        <http://dbpedia.org/resource/Cadmium>,
+        <http://dbpedia.org/resource/Candy_Dulfer>,
+        <http://dbpedia.org/resource/Capital_city>,
+        <http://dbpedia.org/resource/Capture_of_Skopje_(1944)>,
+        <http://dbpedia.org/resource/Caravanserai>,
+        <http://dbpedia.org/resource/Carbon_monoxide>,
+        <http://dbpedia.org/resource/Carrefour>,
+        <http://dbpedia.org/resource/Category:Capitals_in_Europe>,
+        <http://dbpedia.org/resource/Category:Cities_in_North_Macedonia>,
+        <http://dbpedia.org/resource/Category:Cities_in_ancient_Illyria>,
+        <http://dbpedia.org/resource/Category:Former_capitals_of_Bulgaria>,
+        <http://dbpedia.org/resource/Category:Former_capitals_of_Serbia>,
+        <http://dbpedia.org/resource/Category:Skopje>,
+        <http://dbpedia.org/resource/Centar_Municipality_(Skopje)>,
+        <http://dbpedia.org/resource/Centar_municipality_(Skopje)>,
+        <http://dbpedia.org/resource/Central_European_Summer_Time>,
+        <http://dbpedia.org/resource/Central_European_Time>,
+        <http://dbpedia.org/resource/Chalcolithic>,
+        <http://dbpedia.org/resource/Chetniks>,
+        <http://dbpedia.org/resource/Chlef>,
+        <http://dbpedia.org/resource/Cholera>,
+        <http://dbpedia.org/resource/Christo>,
+        <http://dbpedia.org/resource/Church_of_Saint_Panteleimon,_Gorno_Nerezi>,
+        <http://dbpedia.org/resource/Church_of_St._Clement_of_Ohrid>,
+        <http://dbpedia.org/resource/Church_of_St._Panteleimon_(Gorno_Nerezi)>,
+        <http://dbpedia.org/resource/Church_of_the_Ascension_of_Jesus,_Skopje>,
+        <http://dbpedia.org/resource/Church_of_the_Nativity_of_the_Theotokos,_Skopje>,
+        <http://dbpedia.org/resource/City_of_Bradford>,
+        <http://dbpedia.org/resource/Classical_antiquity>,
+        <http://dbpedia.org/resource/Coat_of_arms_of_Skopje>,
+        <http://dbpedia.org/resource/Constantine_Tikh_of_Bulgaria>,
+        <http://dbpedia.org/resource/Constantine_the_Great>,
+        <http://dbpedia.org/resource/Constantinople>,
+        <http://dbpedia.org/resource/Contemporary_Art_Museum_(North_Macedonia)>,
+        <http://dbpedia.org/resource/Contemporary_art>,
+        <http://dbpedia.org/resource/Crassus>,
+        <http://dbpedia.org/resource/Cuisine_of_North_Macedonia>,
+        <http://dbpedia.org/resource/Dalmatia>,
+        <http://dbpedia.org/resource/Danela_Arsovska>,
+        <http://dbpedia.org/resource/Danube>,
+        <http://dbpedia.org/resource/Dardani>,
+        <http://dbpedia.org/resource/Dardania_(Roman_province)>,
+        <http://dbpedia.org/resource/Dardanian_Kingdom>,
+        <http://dbpedia.org/resource/Dave_Burgess_(musician)>,
+        <http://dbpedia.org/resource/Democratic_Federal_Yugoslavia>,
+        <http://dbpedia.org/resource/Democratic_Union_for_Integration>,
+        <http://dbpedia.org/resource/Despotate_of_Epirus>,
+        <http://dbpedia.org/resource/Dijon>,
+        <http://dbpedia.org/resource/District_heating>,
+        <http://dbpedia.org/resource/District_of_Branković>,
+        <http://dbpedia.org/resource/Dnevnik_(Skopje)>,
+        <http://dbpedia.org/resource/Doha,_Qatar>,
+        <http://dbpedia.org/resource/Dome>,
+        <http://dbpedia.org/resource/Domitian>,
+        <http://dbpedia.org/resource/Dračevo,_Skopje>,
+        <http://dbpedia.org/resource/Dresden>,
+        <http://dbpedia.org/resource/Dubai>,
+        <http://dbpedia.org/resource/Dubrovnik>,
+        <http://dbpedia.org/resource/Dyeing>,
+        <http://dbpedia.org/resource/Early_Middle_Ages>,
+        <http://dbpedia.org/resource/Eastern_Orthodox_Church>,
+        <http://dbpedia.org/resource/Eastern_Roman_Empire>,
+        <http://dbpedia.org/resource/Empire_of_Nicaea>,
+        <http://dbpedia.org/resource/Enea_Silvio_Piccolomini_(general)>,
+        <http://dbpedia.org/resource/Ethnic_identity>,
+        <http://dbpedia.org/resource/European_University-Republic_of_Macedonia>,
+        <http://dbpedia.org/resource/European_route_E75>,
+        <http://dbpedia.org/resource/Experimental_theatre>,
+        <http://dbpedia.org/resource/FK_Gorno_Lisiče>,
+        <http://dbpedia.org/resource/FK_Lokomotiva_Skopje>,
+        <http://dbpedia.org/resource/FK_Madžari_Solidarnost>,
+        <http://dbpedia.org/resource/FK_Makedonija_Ǵorče_Petrov>,
+        <http://dbpedia.org/resource/FK_Metalurg_Skopje>,
+        <http://dbpedia.org/resource/FK_Rabotnički>,
+        <http://dbpedia.org/resource/FK_Skopje>,
+        <http://dbpedia.org/resource/FK_Vardar>,
+        <http://dbpedia.org/resource/FON_University>,
+        <http://dbpedia.org/resource/Federated_state>,
+        <http://dbpedia.org/resource/Fernand_Léger>,
+        <http://dbpedia.org/resource/File:Archäologisches_Museum_von_Mazedonien_(Skopje).jpg>,
+        <http://dbpedia.org/resource/File:Cave_lake_(8172274819).jpg>,
+        <http://dbpedia.org/resource/File:Centar,_Skopje_1000,_Macedonia_(FYROM)_-_panoramio_(151).jpg>,
+        <http://dbpedia.org/resource/File:Centarot_na_Skopje_pred_zemjotresot.jpg>,
+        <http://dbpedia.org/resource/File:Coat_of_arms_of_Aerodrom_Municipality,_2012-present.svg>,
+        <http://dbpedia.org/resource/File:Coat_of_arms_of_Butel_Municipality.svg>,
+        <http://dbpedia.org/resource/File:Coat_of_arms_of_Centar_Municipality,_Macedonia.svg>,
+        <http://dbpedia.org/resource/File:Coat_of_arms_of_Gazi_Baba_Municipality.svg>,
+        <http://dbpedia.org/resource/File:Coat_of_arms_of_Karpoš_Municipality.svg>,
+        <http://dbpedia.org/resource/File:Coat_of_arms_of_Kisela_Voda_Municipality_(2015).svg>,
+        <http://dbpedia.org/resource/File:Coat_of_arms_of_Saraj_Municipality.svg>,
+        <http://dbpedia.org/resource/File:Coat_of_arms_of_Čair_Municipality.svg>,
+        <http://dbpedia.org/resource/File:Coat_of_arms_of_Šuto_Orizari_Municipality.svg>,
+        <http://dbpedia.org/resource/File:Coat_of_arms_of_Ǵorče_Petrov_Municipality.svg>,
+        <http://dbpedia.org/resource/File:Coronation_of_Emperor_Dušan,_in_%22The_Slavonic_Epic%22_(1926).jpg>,
+        <http://dbpedia.org/resource/File:Del_od_Skopje,_1950ti.jpg>,
+        <http://dbpedia.org/resource/File:E65_Skopje_Northern_Bypass_1.jpg>,
+        <http://dbpedia.org/resource/File:GUP_Skopje_2002_mal.jpg>,
+        <http://dbpedia.org/resource/File:Gorno_Nerezi_2013_(1).JPG>,
+        <http://dbpedia.org/resource/File:Isak_Bey_Turbe_Aladja_Mosque_Skopje.JPG>,
+        <http://dbpedia.org/resource/File:Kapistec.jpg>,
+        <http://dbpedia.org/resource/File:MKD_muni_nonn(Skopje).png>,
+        <http://dbpedia.org/resource/File:Manastir_sveti_Pantelejmon_vo_selo_Nerezi.jpg>,
+        <http://dbpedia.org/resource/File:Map_City_of_Skopje_en.svg>,
+        <http://dbpedia.org/resource/File:Mt._Vodno1.jpg>,
+        <http://dbpedia.org/resource/File:Museum_of_the_Macedonian_Struggle.jpg>,
+        <http://dbpedia.org/resource/File:Nanev_Skopje_1941.jpg>,
+        <http://dbpedia.org/resource/File:PedroIEnUskub11031v.jpg>,
+        <http://dbpedia.org/resource/File:Pošta_vo_Skopje,_Macedonia.jpg>,
+        <http://dbpedia.org/resource/File:Presveta_Bogordica_od_Skopje_4.JPG>,
+        <http://dbpedia.org/resource/File:Prvomajska_proslava_vo_Skopje,_1909.jpg>,
+        <http://dbpedia.org/resource/File:Shy_venus_statue_skopje.jpg>,
+        <http://dbpedia.org/resource/File:Skopije_at_night.jpg>,
+        <http://dbpedia.org/resource/File:Skopje,_Daut_Pasuv_hamam_(turecke_lazne)_ve_Skopji,_bila_budova_v.jpg>,
+        <http://dbpedia.org/resource/File:Skopje_(Скопје,_Shkupi)_-_aqueduct.JPG>,
+        <http://dbpedia.org/resource/File:Skopje_City_Council_2017.svg>,
+        <http://dbpedia.org/resource/File:Skopje_SPOT_1114.jpg>,
+        <http://dbpedia.org/resource/File:Skopje_Train_Station_from_Mount_Vodno.JPG>,
+        <http://dbpedia.org/resource/File:Skopje_X126.JPG>,
+        <http://dbpedia.org/resource/File:Skopje_X127.JPG>,
+        <http://dbpedia.org/resource/File:Skopje_X132.JPG>,
+        <http://dbpedia.org/resource/File:Skopje_X31.jpg>,
+        <http://dbpedia.org/resource/File:Skopje_X9.JPG>,
+        <http://dbpedia.org/resource/File:Skopje_X90.JPG>,
+        <http://dbpedia.org/resource/File:Skopje_administrative_division_numbered1.png>,
+        <http://dbpedia.org/resource/File:Skoplje_1912.jpg>,
+        <http://dbpedia.org/resource/File:Skopsko_Kale,_stara.jpg>,
+        <http://dbpedia.org/resource/File:Skupi_(Colonia_Flavia_Scupinorum)_-_by_Pudelek_1.JPG>,
+        <http://dbpedia.org/resource/File:SoraviaCenter1.JPG>,
+        <http://dbpedia.org/resource/File:Tvrdina_vo_Skopje-Makedonija_79_(5).JPG>,
+        <http://dbpedia.org/resource/File:US_army_in_Skopje_1963.jpg>,
+        <http://dbpedia.org/resource/File:Ulica_Makedonija.JPG>,
+        <http://dbpedia.org/resource/File:Urban_pollution_,Градско_загадување.jpg>,
+        <http://dbpedia.org/resource/File:Vero_Center.jpg>,
+        <http://dbpedia.org/resource/File:Wildflowers_of_Bardovci12.jpg>,
+        <http://dbpedia.org/resource/File:Yutong_City_Master_(SK_9734-AC)_JSP_(1).jpg>,
+        <http://dbpedia.org/resource/File:Zeleno_pazarce_-_Flickr_-_ImogenX_(9).jpg>,
+        <http://dbpedia.org/resource/File:Кањон.jpg>,
+        <http://dbpedia.org/resource/File:НУБСК-Поглед.jpg>,
+        <http://dbpedia.org/resource/Filip_II_Hospital,_Skopje>,
+        <http://dbpedia.org/resource/Fire_of_Skopje_1689>,
+        <http://dbpedia.org/resource/First_Balkan_War>,
+        <http://dbpedia.org/resource/First_Bulgarian_Empire>,
+        <http://dbpedia.org/resource/First_World_War>,
+        <http://dbpedia.org/resource/Flag_of_Skopje>,
+        <http://dbpedia.org/resource/Flavian_dynasty>,
+        <http://dbpedia.org/resource/Gaul>,
+        <http://dbpedia.org/resource/Gazi_Baba_municipality>,
+        <http://dbpedia.org/resource/Georgi_Konstantinovski>,
+        <http://dbpedia.org/resource/Georgi_Voyteh>,
+        <http://dbpedia.org/resource/Gevgelija>,
+        <http://dbpedia.org/resource/Goethe-Institut>,
+        <http://dbpedia.org/resource/Gorjan_Jovanovski>,
+        <http://dbpedia.org/resource/Gorno_Nerezi>,
+        <http://dbpedia.org/resource/Gostivar>,
+        <http://dbpedia.org/resource/Gotan_Project>,
+        <http://dbpedia.org/resource/Government_of_North_Macedonia>,
+        <http://dbpedia.org/resource/Grand_Principality_of_Serbia>,
+        <http://dbpedia.org/resource/Great_Turkish_War>,
+        <http://dbpedia.org/resource/Greater_Skopje>,
+        <http://dbpedia.org/resource/Greece>,
+        <http://dbpedia.org/resource/Gustav_Weigand>,
+        <http://dbpedia.org/resource/Hajduk>,
+        <http://dbpedia.org/resource/Hans_Hartung>,
+        <http://dbpedia.org/resource/Hapsburgs>,
+        <http://dbpedia.org/resource/Historicism_(art)>,
+        <http://dbpedia.org/resource/History_of_Skopje>,
+        <http://dbpedia.org/resource/Holocaust_Memorial_Center_for_the_Jews_of_Macedonia>,
+        <http://dbpedia.org/resource/Humid_subtropical_climate>,
+        <http://dbpedia.org/resource/Icon>,
+        <http://dbpedia.org/resource/Ilinden_Municipality>,
+        <http://dbpedia.org/resource/Ilinden_municipality>,
+        <http://dbpedia.org/resource/Ilinden–Preobrazhenie_Uprising>,
+        <http://dbpedia.org/resource/Illyrians>,
+        <http://dbpedia.org/resource/Imperial_Tobacco>,
+        <http://dbpedia.org/resource/Independent_politician>,
+        <http://dbpedia.org/resource/Inquisition>,
+        <http://dbpedia.org/resource/Insurgency_in_the_Republic_of_Macedonia>,
+        <http://dbpedia.org/resource/Internal_Macedonian_Revolutionary_Organization>,
+        <http://dbpedia.org/resource/International_Airport_Skopje>,
+        <http://dbpedia.org/resource/International_Festivals_and_Events_Association>,
+        <http://dbpedia.org/resource/Irina_Arkhipova>,
+        <http://dbpedia.org/resource/Iron_Age>,
+        <http://dbpedia.org/resource/Ironworks>,
+        <http://dbpedia.org/resource/Islam>,
+        <http://dbpedia.org/resource/Istanbul>,
+        <http://dbpedia.org/resource/Italian_primitives>,
+        <http://dbpedia.org/resource/Ivan_Asen_II_of_Bulgaria>,
+        <http://dbpedia.org/resource/JAT_Airways>,
+        <http://dbpedia.org/resource/Jakupica>,
+        <http://dbpedia.org/resource/Janissaries>,
+        <http://dbpedia.org/resource/Janko_Konstantinov>,
+        <http://dbpedia.org/resource/Jegunovce_Municipality>,
+        <http://dbpedia.org/resource/Jegunovce_municipality>,
+        <http://dbpedia.org/resource/Jewish_people>,
+        <http://dbpedia.org/resource/Johnson_Controls>,
+        <http://dbpedia.org/resource/Johnson_Matthey>,
+        <http://dbpedia.org/resource/João_Bosco>,
+        <http://dbpedia.org/resource/Justinian_I>,
+        <http://dbpedia.org/resource/KK_MZT_Skopje>,
+        <http://dbpedia.org/resource/KK_Rabotnički>,
+        <http://dbpedia.org/resource/Kafana>,
+        <http://dbpedia.org/resource/Kaloyan_of_Bulgaria>,
+        <http://dbpedia.org/resource/Kanal_5_(Macedonia)>,
+        <http://dbpedia.org/resource/Karposh's_Rebellion>,
+        <http://dbpedia.org/resource/Karpoš_municipality>,
+        <http://dbpedia.org/resource/Karst>,
+        <http://dbpedia.org/resource/Kenzo_Tange>,
+        <http://dbpedia.org/resource/Kingdom_of_Bulgaria>,
+        <http://dbpedia.org/resource/Kingdom_of_Dardania>,
+        <http://dbpedia.org/resource/Kingdom_of_Paeonia>,
+        <http://dbpedia.org/resource/Kingdom_of_Serbia>,
+        <http://dbpedia.org/resource/Kingdom_of_Serbia_(medieval)>,
+        <http://dbpedia.org/resource/Kingdom_of_Yugoslavia>,
+        <http://dbpedia.org/resource/Kisela_Voda_municipality>,
+        <http://dbpedia.org/resource/Kičevo>,
+        <http://dbpedia.org/resource/Komercijalna_banka_Skopje>,
+        <http://dbpedia.org/resource/Kondovo,_Saraj>,
+        <http://dbpedia.org/resource/Kosovo>,
+        <http://dbpedia.org/resource/Kosovo_Vilayet>,
+        <http://dbpedia.org/resource/Kumanovo>,
+        <http://dbpedia.org/resource/Kuršumli_An>,
+        <http://dbpedia.org/resource/Köppen_climate_classification>,
+        <http://dbpedia.org/resource/Larry_Coryell>,
+        <http://dbpedia.org/resource/Latin_jazz>,
+        <http://dbpedia.org/resource/Latin_language>,
+        <http://dbpedia.org/resource/Legio_VII_Claudia>,
+        <http://dbpedia.org/resource/Lepenac>,
+        <http://dbpedia.org/resource/Lipkovo_Municipality>,
+        <http://dbpedia.org/resource/List_of_cities_in_North_Macedonia_by_population>,
+        <http://dbpedia.org/resource/List_of_honorary_citizens_of_Skopje>,
+        <http://dbpedia.org/resource/List_of_people_from_Skopje>,
+        <http://dbpedia.org/resource/Livy>,
+        <http://dbpedia.org/resource/Ljubljana>,
+        <http://dbpedia.org/resource/Lordship_of_Prilep>,
+        <http://dbpedia.org/resource/M-1_motorway_(Republic_of_Macedonia)>,
+        <http://dbpedia.org/resource/Macedon>,
+        <http://dbpedia.org/resource/Macedonia_naming_dispute>,
+        <http://dbpedia.org/resource/Macedonian_Academy_of_Sciences_and_Arts>,
+        <http://dbpedia.org/resource/Macedonian_Bulgarians>,
+        <http://dbpedia.org/resource/Macedonian_First_Football_League>,
+        <http://dbpedia.org/resource/Macedonian_National_Liberation_Army>,
+        <http://dbpedia.org/resource/Macedonian_Orthodox_Church>,
+        <http://dbpedia.org/resource/Macedonian_Orthodox_Church_–_Ohrid_Archbishopric>,
+        <http://dbpedia.org/resource/Macedonian_Radio-Television>,
+        <http://dbpedia.org/resource/Macedonian_Second_Football_League>,
+        <http://dbpedia.org/resource/Macedonian_Stock_Exchange>,
+        <http://dbpedia.org/resource/Macedonian_front>,
+        <http://dbpedia.org/resource/Macedonian_language>,
+        <http://dbpedia.org/resource/Macedonian_people>,
+        <http://dbpedia.org/resource/Macedonians_(ethnic_group)>,
+        <http://dbpedia.org/resource/Madrasah>,
+        <http://dbpedia.org/resource/Makedonski_Telekom>,
+        <http://dbpedia.org/resource/Makfax>,
+        <http://dbpedia.org/resource/Manchester_United>,
+        <http://dbpedia.org/resource/Manisa>,
+        <http://dbpedia.org/resource/Marl>,
+        <http://dbpedia.org/resource/Massacres_of_Albanians_in_the_Balkan_Wars>,
+        <http://dbpedia.org/resource/Matka_Canyon>,
+        <http://dbpedia.org/resource/Mayor_of_the_City_of_Skopje>,
+        <http://dbpedia.org/resource/Media_Information_Agency>,
+        <http://dbpedia.org/resource/Memorial_House_of_Mother_Teresa>,
+        <http://dbpedia.org/resource/Michael_Asen_I_of_Bulgaria>,
+        <http://dbpedia.org/resource/Michel_Dalberto>,
+        <http://dbpedia.org/resource/Mick_Taylor>,
+        <http://dbpedia.org/resource/Milan_Zloković>,
+        <http://dbpedia.org/resource/Minaret>,
+        <http://dbpedia.org/resource/Modernist_architecture>,
+        <http://dbpedia.org/resource/Modified_Mercalli_intensity_scale>,
+        <http://dbpedia.org/resource/Moesia>,
+        <http://dbpedia.org/resource/Moesia_Superior>,
+        <http://dbpedia.org/resource/Moorish_Revival_architecture>,
+        <http://dbpedia.org/resource/Mother_Teresa>,
+        <http://dbpedia.org/resource/Municipalities_of_North_Macedonia>,
+        <http://dbpedia.org/resource/Museum_of_the_City_of_Skopje>,
+        <http://dbpedia.org/resource/Museum_of_the_Macedonian_Struggle_(Skopje)>,
+        <http://dbpedia.org/resource/Museum_of_the_Republic_of_North_Macedonia>,
+        <http://dbpedia.org/resource/Music_of_North_Macedonia>,
+        <http://dbpedia.org/resource/Music_of_Serbia>,
+        <http://dbpedia.org/resource/Mustafa_Pasha_Mosque>,
+        <http://dbpedia.org/resource/NOAA>,
+        <http://dbpedia.org/resource/Naissus>,
+        <http://dbpedia.org/resource/Nanchang>,
+        <http://dbpedia.org/resource/National_Bank_of_the_Republic_of_Macedonia>,
+        <http://dbpedia.org/resource/National_Gallery_of_Macedonia>,
+        <http://dbpedia.org/resource/National_and_University_Library_%22St._Kliment_of_Ohrid%22>,
+        <http://dbpedia.org/resource/Nationalism>,
+        <http://dbpedia.org/resource/Nazi_Germany>,
+        <http://dbpedia.org/resource/Nazis>,
+        <http://dbpedia.org/resource/Nemanjić>,
+        <http://dbpedia.org/resource/Neogene>,
+        <http://dbpedia.org/resource/Neolithic>,
+        <http://dbpedia.org/resource/Nitrogen_oxide>,
+        <http://dbpedia.org/resource/Niš>,
+        <http://dbpedia.org/resource/Normans>,
+        <http://dbpedia.org/resource/North_Macedonia>,
+        <http://dbpedia.org/resource/Nova_Makedonija>,
+        <http://dbpedia.org/resource/Nuremberg>,
+        <http://dbpedia.org/resource/Ohrid>,
+        <http://dbpedia.org/resource/Old_Bazaar,_Skopje>,
+        <http://dbpedia.org/resource/Osogovo>,
+        <http://dbpedia.org/resource/Ottoman_Empire>,
+        <http://dbpedia.org/resource/Ottoman_Turkish_Empire>,
+        <http://dbpedia.org/resource/Ottoman_architecture>,
+        <http://dbpedia.org/resource/Ottoman_cuisine>,
+        <http://dbpedia.org/resource/Ottoman–Habsburg_wars>,
+        <http://dbpedia.org/resource/Pablo_Picasso>,
+        <http://dbpedia.org/resource/Paeonia_(kingdom)>,
+        <http://dbpedia.org/resource/Paionians>,
+        <http://dbpedia.org/resource/Pan-European_Corridor_VIII>,
+        <http://dbpedia.org/resource/Pan-European_Corridor_X>,
+        <http://dbpedia.org/resource/Pan-European_corridors>,
+        <http://dbpedia.org/resource/Particulates>,
+        <http://dbpedia.org/resource/Peter_Delyan>,
+        <http://dbpedia.org/resource/Petrovec>,
+        <http://dbpedia.org/resource/Petrovec_Municipality>,
+        <http://dbpedia.org/resource/Petrovec_municipality>,
+        <http://dbpedia.org/resource/Phil_Guy>,
+        <http://dbpedia.org/resource/Pierre_Soulages>,
+        <http://dbpedia.org/resource/Pittsburgh>,
+        <http://dbpedia.org/resource/Plague_(disease)>,
+        <http://dbpedia.org/resource/Pliocene>,
+        <http://dbpedia.org/resource/Podgorica>,
+        <http://dbpedia.org/resource/Polog_Statistical_Region>,
+        <http://dbpedia.org/resource/Prehistory>,
+        <http://dbpedia.org/resource/Prishtina>,
+        <http://dbpedia.org/resource/Prizren>,
+        <http://dbpedia.org/resource/Prokletije>,
+        <http://dbpedia.org/resource/Protestant>,
+        <http://dbpedia.org/resource/Quaternary>,
+        <http://dbpedia.org/resource/RK_Metalurg_Skopje>,
+        <http://dbpedia.org/resource/RK_Vardar>,
+        <http://dbpedia.org/resource/Radišani>,
+        <http://dbpedia.org/resource/Rain_shadow>,
+        <http://dbpedia.org/resource/Ray_Charles>,
+        <http://dbpedia.org/resource/Real_Madrid>,
+        <http://dbpedia.org/resource/Republic_of_Macedonia>,
+        <http://dbpedia.org/resource/Republic_of_Ragusa>,
+        <http://dbpedia.org/resource/Ristiḱ_Palace>,
+        <http://dbpedia.org/resource/Robert_Guiscard>,
+        <http://dbpedia.org/resource/Roma_in_North_Macedonia>,
+        <http://dbpedia.org/resource/Roma_people>,
+        <http://dbpedia.org/resource/Roman_Catholic>,
+        <http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Skopje>,
+        <http://dbpedia.org/resource/Roman_Empire>,
+        <http://dbpedia.org/resource/Roman_colony>,
+        <http://dbpedia.org/resource/Roman_province_of_Macedonia>,
+        <http://dbpedia.org/resource/Romani_language>,
+        <http://dbpedia.org/resource/Romani_people_in_North_Macedonia>,
+        <http://dbpedia.org/resource/Rome>,
+        <http://dbpedia.org/resource/Roubaix>,
+        <http://dbpedia.org/resource/Rumelia>,
+        <http://dbpedia.org/resource/Rural_exodus>,
+        <http://dbpedia.org/resource/SDSM>,
+        <http://dbpedia.org/resource/SFR_Yugoslavia>,
+        <http://dbpedia.org/resource/Saint_George>,
+        <http://dbpedia.org/resource/Salonica>,
+        <http://dbpedia.org/resource/Samuel_of_Bulgaria>,
+        <http://dbpedia.org/resource/Sandstone>,
+        <http://dbpedia.org/resource/Sanjak>,
+        <http://dbpedia.org/resource/Sanjak_of_Novi_Pazar>,
+        <http://dbpedia.org/resource/Saraj_Municipality>,
+        <http://dbpedia.org/resource/Saraj_municipality>,
+        <http://dbpedia.org/resource/Sarajevo>,
+        <http://dbpedia.org/resource/Scupi>,
+        <http://dbpedia.org/resource/Second_Bulgarian_Empire>,
+        <http://dbpedia.org/resource/Second_World_War>,
+        <http://dbpedia.org/resource/Semi-arid_climate>,
+        <http://dbpedia.org/resource/Sensor>,
+        <http://dbpedia.org/resource/Sephardi_Jews>,
+        <http://dbpedia.org/resource/Serbia>,
+        <http://dbpedia.org/resource/Serbian_Empire>,
+        <http://dbpedia.org/resource/Serbo-Byzantine_architecture>,
+        <http://dbpedia.org/resource/Serbs>,
+        <http://dbpedia.org/resource/Serbs_in_North_Macedonia>,
+        <http://dbpedia.org/resource/Shapeshifters_(music_act)>,
+        <http://dbpedia.org/resource/Sitel_(TV_channel)>,
+        <http://dbpedia.org/resource/Skopje_%22Alexander_the_Great%22_Airport>,
+        <http://dbpedia.org/resource/Skopje_2014>,
+        <http://dbpedia.org/resource/Skopje_Aqueduct>,
+        <http://dbpedia.org/resource/Skopje_City_Museum>,
+        <http://dbpedia.org/resource/Skopje_Film_Festival>,
+        <http://dbpedia.org/resource/Skopje_Fortress>,
+        <http://dbpedia.org/resource/Skopje_Jazz_Festival>,
+        <http://dbpedia.org/resource/Skopje_Statistical_Region>,
+        <http://dbpedia.org/resource/Skopje_Zoo>,
+        <http://dbpedia.org/resource/Skopje_fire_of_1689>,
+        <http://dbpedia.org/resource/Skopska_Crna_Gora>,
+        <http://dbpedia.org/resource/Slavko_Brezovski>,
+        <http://dbpedia.org/resource/Slavs>,
+        <http://dbpedia.org/resource/Smooth_jazz>,
+        <http://dbpedia.org/resource/Social_Democratic_Union_of_Macedonia>,
+        <http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia>,
+        <http://dbpedia.org/resource/Socialist_Republic_of_Macedonia>,
+        <http://dbpedia.org/resource/Sofia>,
+        <http://dbpedia.org/resource/Sopište_Municipality>,
+        <http://dbpedia.org/resource/Sopište_municipality>,
+        <http://dbpedia.org/resource/Southwestern_Statistical_Region>,
+        <http://dbpedia.org/resource/Special_economic_zone>,
+        <http://dbpedia.org/resource/Sports_in_Skopje>,
+        <http://dbpedia.org/resource/Ss._Cyril_and_Methodius_University_of_Skopje>,
+        <http://dbpedia.org/resource/St_Petersburg>,
+        <http://dbpedia.org/resource/Starogradska_muzika>,
+        <http://dbpedia.org/resource/Statistical_Regions_of_North_Macedonia>,
+        <http://dbpedia.org/resource/Stefan_Dečanski>,
+        <http://dbpedia.org/resource/Stefan_Nemanja>,
+        <http://dbpedia.org/resource/Stefan_Uroš_II_Milutin_of_Serbia>,
+        <http://dbpedia.org/resource/Stefan_the_First-Crowned>,
+        <http://dbpedia.org/resource/Stephen_Uroš_IV_Dušan_of_Serbia>,
+        <http://dbpedia.org/resource/Stockholm>,
+        <http://dbpedia.org/resource/Stone_Bridge_(Skopje)>,
+        <http://dbpedia.org/resource/Stopanska_Banka>,
+        <http://dbpedia.org/resource/Strez>,
+        <http://dbpedia.org/resource/Studeničani_Municipality>,
+        <http://dbpedia.org/resource/Suez>,
+        <http://dbpedia.org/resource/Sultan_Mehmed_II_the_Conqueror>,
+        <http://dbpedia.org/resource/Sultan_Murad_Mosque>,
+        <http://dbpedia.org/resource/Syria>,
+        <http://dbpedia.org/resource/TAV_Airports_Holding>,
+        <http://dbpedia.org/resource/Tabanovce>,
+        <http://dbpedia.org/resource/Tanning_(leather)>,
+        <http://dbpedia.org/resource/Tanzimat>,
+        <http://dbpedia.org/resource/Tectonic_plate>,
+        <http://dbpedia.org/resource/Tempe,_Arizona>,
+        <http://dbpedia.org/resource/Tetovo>,
+        <http://dbpedia.org/resource/The_Left_(North_Macedonia)>,
+        <http://dbpedia.org/resource/The_Temptations>,
+        <http://dbpedia.org/resource/Theme_(Byzantine_district)>,
+        <http://dbpedia.org/resource/Theme_of_Bulgaria>,
+        <http://dbpedia.org/resource/Theme_park>,
+        <http://dbpedia.org/resource/Thessaloniki>,
+        <http://dbpedia.org/resource/Thracian>,
+        <http://dbpedia.org/resource/Tirana>,
+        <http://dbpedia.org/resource/Tito_Puente>,
+        <http://dbpedia.org/resource/Tolo_Marton>,
+        <http://dbpedia.org/resource/Topaana>,
+        <http://dbpedia.org/resource/Toše_Proeski_Arena>,
+        <http://dbpedia.org/resource/Traffic_light>,
+        <http://dbpedia.org/resource/Transportation_Center_Skopje>,
+        <http://dbpedia.org/resource/Treblinka>,
+        <http://dbpedia.org/resource/Treska>,
+        <http://dbpedia.org/resource/Triballi>,
+        <http://dbpedia.org/resource/Triple_Entente>,
+        <http://dbpedia.org/resource/Tumba_Madžari>,
+        <http://dbpedia.org/resource/Turkish_bath>,
+        <http://dbpedia.org/resource/Turkish_baths>,
+        <http://dbpedia.org/resource/Turkish_people>,
+        <http://dbpedia.org/resource/Turks_in_North_Macedonia>,
+        <http://dbpedia.org/resource/Twin_towns_and_sister_cities>,
+        <http://dbpedia.org/resource/Türbe>,
+        <http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland>,
+        <http://dbpedia.org/resource/Uprising_of_Ivaylo>,
+        <http://dbpedia.org/resource/Urban_unit>,
+        <http://dbpedia.org/resource/VMRO-DPMNE>,
+        <http://dbpedia.org/resource/Van_Hool>,
+        <http://dbpedia.org/resource/Vardar>,
+        <http://dbpedia.org/resource/Vardar_Banovina>,
+        <http://dbpedia.org/resource/Vardar_Macedonia>,
+        <http://dbpedia.org/resource/Vardarska_Banovina>,
+        <http://dbpedia.org/resource/Veles_(city)>,
+        <http://dbpedia.org/resource/Veliko_Tarnovo>,
+        <http://dbpedia.org/resource/Venice>,
+        <http://dbpedia.org/resource/Večer_(Macedonia)>,
+        <http://dbpedia.org/resource/Victor_Vasarely>,
+        <http://dbpedia.org/resource/Vienna>,
+        <http://dbpedia.org/resource/Viktor_Tretiakov>,
+        <http://dbpedia.org/resource/Vilayet_of_Kosovo>,
+        <http://dbpedia.org/resource/Vodno>,
+        <http://dbpedia.org/resource/Vreme_(newspaper)>,
+        <http://dbpedia.org/resource/Vuk_Branković>,
+        <http://dbpedia.org/resource/Vukan,_Grand_Prince_of_Serbia>,
+        <http://dbpedia.org/resource/Waremme>,
+        <http://dbpedia.org/resource/Warsaw>,
+        <http://dbpedia.org/resource/Water_table>,
+        <http://dbpedia.org/resource/Weaving>,
+        <http://dbpedia.org/resource/Wikt:Skopjan>,
+        <http://dbpedia.org/resource/World_Health_Organization>,
+        <http://dbpedia.org/resource/World_Meteorological_Organization>,
+        <http://dbpedia.org/resource/World_War_II>,
+        <http://dbpedia.org/resource/Young_Turk_Revolution>,
+        <http://dbpedia.org/resource/Young_Turks>,
+        <http://dbpedia.org/resource/Youssou_N'Dour>,
+        <http://dbpedia.org/resource/Yugoslav_Partisans>,
+        <http://dbpedia.org/resource/Yugoslavia>,
+        <http://dbpedia.org/resource/Yutong>,
+        <http://dbpedia.org/resource/Yutong_City_Master>,
+        <http://dbpedia.org/resource/Zagreb>,
+        <http://dbpedia.org/resource/Zaragoza>,
+        <http://dbpedia.org/resource/Zinc>,
+        <http://dbpedia.org/resource/Zürich>,
+        <http://dbpedia.org/resource/Čair_municipality>,
+        <http://dbpedia.org/resource/Čento>,
+        <http://dbpedia.org/resource/Čučer-Sandevo_Municipality>,
+        <http://dbpedia.org/resource/Šar_Mountains>,
+        <http://dbpedia.org/resource/Šar_mountains>,
+        <http://dbpedia.org/resource/Štip>,
+        <http://dbpedia.org/resource/Šuto_Orizari_municipality>,
+        <http://dbpedia.org/resource/ŽRK_Metalurg>,
+        <http://dbpedia.org/resource/ŽRK_Vardar>,
+        <http://dbpedia.org/resource/Želino_Municipality>,
+        <http://dbpedia.org/resource/Ǵorče_Petrov_Municipality>,
+        <http://dbpedia.org/resource/Ǵorče_Petrov_municipality> ;
+    ns1:align "right"@en ;
+    ns1:aprHighC 1.94e+01 ;
+    ns1:aprHumidity 66 ;
+    ns1:aprLowC 5.7e+00 ;
+    ns1:aprMeanC 1.24e+01 ;
+    ns1:aprPrecipitationDays 10 ;
+    ns1:aprPrecipitationMm 40 ;
+    ns1:aprRecordHighC 35 ;
+    ns1:aprRecordLowC -6 ;
+    ns1:aprSnowDays 2e-01 ;
+    ns1:aprSun 1.984e+02 ;
+    ns1:areaCode "+389 2"@en ;
+    ns1:areaMetroKm 1854 ;
+    ns1:areaTotalKm 5.7146e+02 ;
+    ns1:areaUrbanKm 3.378e+02 ;
+    ns1:augHighC 3.23e+01 ;
+    ns1:augHumidity 56 ;
+    ns1:augLowC 1.62e+01 ;
+    ns1:augMeanC 2.41e+01 ;
+    ns1:augPrecipitationDays 6 ;
+    ns1:augPrecipitationMm 36 ;
+    ns1:augRecordHighC 4.32e+01 ;
+    ns1:augRecordLowC 4.3e+00 ;
+    ns1:augSnowDays 0 ;
+    ns1:augSun 3.054e+02 ;
+    ns1:blank2InfoSec 8.02e-01,
+        "· 1st of 8"@en ;
+    ns1:blank2NameSec <http://dbpedia.org/resource/Human_Development_Index> ;
+    ns1:blankInfoSec <http://dbpedia.org/resource/Semi-arid_climate>,
+        "SK"@en ;
+    ns1:blankNameSec <http://dbpedia.org/resource/Köppen_climate_classification>,
+        "Car plates"@en ;
+    ns1:center "Greater Skopje"@en ;
+    ns1:date "March 2025"@en ;
+    ns1:decHighC 5.9e+00 ;
+    ns1:decHumidity 85 ;
+    ns1:decLowC -1.4e+00 ;
+    ns1:decMeanC 1.8e+00 ;
+    ns1:decPrecipitationDays 11 ;
+    ns1:decPrecipitationMm 48 ;
+    ns1:decRecordHighC 2.21e+01 ;
+    ns1:decRecordLowC -2.29e+01 ;
+    ns1:decSnowDays 5 ;
+    ns1:decSun 7.96e+01 ;
+    ns1:demographics1Info <http://dbpedia.org/resource/Albanian_language>,
+        <http://dbpedia.org/resource/Macedonian_language> ;
+    ns1:demographics1Title "primary"@en ;
+    ns1:demographicsType "Official Language"@en ;
+    ns1:east <http://dbpedia.org/resource/Aračinovo_Municipality>,
+        <http://dbpedia.org/resource/Ilinden_Municipality> ;
+    ns1:elevationM 240 ;
+    ns1:febHighC 9 ;
+    ns1:febHumidity 75 ;
+    ns1:febLowC -1.6e+00 ;
+    ns1:febMeanC 3 ;
+    ns1:febPrecipitationDays 9 ;
+    ns1:febPrecipitationMm 29 ;
+    ns1:febRecordHighC 2.46e+01 ;
+    ns1:febRecordLowC -22 ;
+    ns1:febSnowDays 5 ;
+    ns1:febSun 1.125e+02 ;
+    ns1:flagLink "Flag of Skopje"@en ;
+    ns1:fontsize "80.0"^^<http://dbpedia.org/datatype/perCent> ;
+    ns1:governingBody "Skopje City Council"@en ;
+    ns1:governmentType "Special unit of local self-government"@en ;
+    ns1:imageFlag "Flag of City of Skopje.svg"@en ;
+    ns1:imageShield "Coat of arms of Skopje.svg"@en ;
+    ns1:imagesize 280 ;
+    ns1:isoCode "MK-85"@en ;
+    ns1:janHighC 4.8e+00 ;
+    ns1:janHumidity 83 ;
+    ns1:janLowC -3.3e+00 ;
+    ns1:janMeanC 2e-01 ;
+    ns1:janPrecipitationDays 10 ;
+    ns1:janPrecipitationMm 30 ;
+    ns1:janRecordHighC 1.96e+01 ;
+    ns1:janRecordLowC -2.56e+01 ;
+    ns1:janSnowDays 5 ;
+    ns1:janSun 8.69e+01 ;
+    ns1:julHighC 32 ;
+    ns1:julHumidity 56 ;
+    ns1:julLowC 1.63e+01 ;
+    ns1:julMeanC 2.41e+01 ;
+    ns1:julPrecipitationDays 7 ;
+    ns1:julPrecipitationMm 38 ;
+    ns1:julRecordHighC 4.28e+01 ;
+    ns1:julRecordLowC 5.8e+00 ;
+    ns1:julSnowDays 0 ;
+    ns1:julSun 323 ;
+    ns1:junHighC 2.92e+01 ;
+    ns1:junHumidity 61 ;
+    ns1:junLowC 1.43e+01 ;
+    ns1:junMeanC 2.17e+01 ;
+    ns1:junPrecipitationDays 10 ;
+    ns1:junPrecipitationMm 54 ;
+    ns1:junRecordHighC 4.11e+01 ;
+    ns1:junRecordLowC 3.2e+00 ;
+    ns1:junSnowDays 0 ;
+    ns1:junSun 2.763e+02 ;
+    ns1:leaderName "Danela Arsovska"@en ;
+    ns1:leaderTitle <http://dbpedia.org/resource/Mayor_of_the_City_of_Skopje> ;
+    ns1:location "Skopje International Airport"@en ;
+    ns1:mapCaption "Location of Skopje in North Macedonia"@en ;
+    ns1:mapsize 230 ;
+    ns1:marHighC 1.45e+01 ;
+    ns1:marHumidity 68 ;
+    ns1:marLowC 1.9e+00 ;
+    ns1:marMeanC 7.7e+00 ;
+    ns1:marPrecipitationDays 10 ;
+    ns1:marPrecipitationMm 38 ;
+    ns1:marRecordHighC 3.42e+01 ;
+    ns1:marRecordLowC -19 ;
+    ns1:marSnowDays 3 ;
+    ns1:marSun 1.611e+02 ;
+    ns1:mayHighC 2.44e+01 ;
+    ns1:mayHumidity 66 ;
+    ns1:mayLowC 1.03e+01 ;
+    ns1:mayMeanC 1.72e+01 ;
+    ns1:mayPrecipitationDays 11 ;
+    ns1:mayPrecipitationMm 43 ;
+    ns1:mayRecordHighC 3.58e+01 ;
+    ns1:mayRecordLowC -1.6e+00 ;
+    ns1:maySnowDays 0 ;
+    ns1:maySun 2.452e+02 ;
+    ns1:metricFirst "y"@en ;
+    ns1:name "Skopje"@en ;
+    ns1:north <http://dbpedia.org/resource/Čučer-Sandevo_Municipality> ;
+    ns1:northeast <http://dbpedia.org/resource/Lipkovo_Municipality> ;
+    ns1:novHighC 1.25e+01 ;
+    ns1:novHumidity 82 ;
+    ns1:novLowC 2.8e+00 ;
+    ns1:novMeanC 6.9e+00 ;
+    ns1:novPrecipitationDays 9 ;
+    ns1:novPrecipitationMm 45 ;
+    ns1:novRecordHighC 2.82e+01 ;
+    ns1:novRecordLowC -1.22e+01 ;
+    ns1:novSnowDays 2 ;
+    ns1:novSun 1.148e+02 ;
+    ns1:octHighC 2.01e+01 ;
+    ns1:octHumidity 74 ;
+    ns1:octLowC 7.6e+00 ;
+    ns1:octMeanC 1.31e+01 ;
+    ns1:octPrecipitationDays 7 ;
+    ns1:octPrecipitationMm 49 ;
+    ns1:octRecordHighC 3.39e+01 ;
+    ns1:octRecordLowC -6.4e+00 ;
+    ns1:octSnowDays 1e-01 ;
+    ns1:octSun 1.882e+02 ;
+    ns1:officialName "City of Skopje"@en,
+        "Qyteti i Shkupit"@en,
+        "Град Скопје"@en ;
+    ns1:populationAsOf 2021 ;
+    ns1:populationDemonym <http://dbpedia.org/resource/Wikt:Skopjan> ;
+    ns1:populationDensityMetroKm "auto"@en ;
+    ns1:populationDensityUrbanKm "auto"@en ;
+    ns1:populationTotal 526502 ;
+    ns1:postalCode "МК-10 00"@en ;
+    ns1:postalCodeType "Postal codes"@en ;
+    ns1:precipitationColour "green"@en ;
+    ns1:pushpinMap "North Macedonia#Europe"@en ;
+    ns1:pushpinRelief 1 ;
+    ns1:quote 28,
+        230,
+        395,
+        836,
+        1004,
+        1093,
+        1098,
+        1203,
+        1246,
+        1255,
+        1256,
+        1261,
+        1992,
+        "Democratic Federal Yugoslavia  1944–1946"@en,
+        "District of Branković, 1371–1392"@en,
+        "Kingdom of Serbia 1912–1915"@en,
+        "Kingdom of Serbia, 1282–1346"@en,
+        "Kingdom of Yugoslavia 1918–1941"@en,
+        "Ottoman Empire, 1392–1912"@en,
+        "Serbian Empire, 1346–1371"@en,
+        "Socialist Federal Republic of Yugoslavia  1946–1992"@en,
+        "Tsardom of Bulgaria 1915–1918"@en,
+        "Tsardom of Bulgaria 1941–1944"@en ;
+    ns1:sepHighC 2.67e+01 ;
+    ns1:sepHumidity 63 ;
+    ns1:sepLowC 1.22e+01 ;
+    ns1:sepMeanC 19 ;
+    ns1:sepPrecipitationDays 6 ;
+    ns1:sepPrecipitationMm 34 ;
+    ns1:sepRecordHighC 3.82e+01 ;
+    ns1:sepRecordLowC -2.3e+00 ;
+    ns1:sepSnowDays 0 ;
+    ns1:sepSun 2.475e+02 ;
+    ns1:settlementType <http://dbpedia.org/resource/Capital_city> ;
+    ns1:shieldLink "Coat of arms of Skopje"@en ;
+    ns1:singleLine "y"@en ;
+    ns1:small "yes"@en ;
+    ns1:source <http://dbpedia.org/resource/World_Meteorological_Organization>,
+        "NOAA , UHMR"@en ;
+    ns1:south <http://dbpedia.org/resource/Sopište_Municipality>,
+        <http://dbpedia.org/resource/Studeničani_Municipality> ;
+    ns1:southeast <http://dbpedia.org/resource/Petrovec_Municipality> ;
+    ns1:subdivisionName <http://dbpedia.org/resource/Skopje>,
+        <http://dbpedia.org/resource/Skopje_Statistical_Region> ;
+    ns1:subdivisionType <http://dbpedia.org/resource/Municipalities_of_North_Macedonia>,
+        <http://dbpedia.org/resource/Statistical_regions_of_North_Macedonia>,
+        "Country"@en ;
+    ns1:timezone <http://dbpedia.org/resource/Central_European_Time> ;
+    ns1:timezone1Dst <http://dbpedia.org/resource/Central_European_Summer_Time> ;
+    ns1:title "(Historical affiliations)"@en,
+        "Timeline of Skopje"@en ;
+    ns1:titleBg "#B0C4DE"@en ;
+    ns1:totalType "Greater Skopje"@en ;
+    ns1:utcOffset "60.0"^^<http://dbpedia.org/datatype/second> ;
+    ns1:utcOffset1Dst "120.0"^^<http://dbpedia.org/datatype/second> ;
+    ns1:west <http://dbpedia.org/resource/Jegunovce_Municipality>,
+        <http://dbpedia.org/resource/Želino_Municipality> ;
+    ns1:width 25,
+        "auto"@en ;
+    ns1:wikiPageUsesTemplate <http://dbpedia.org/resource/Template:As_of>,
+        <http://dbpedia.org/resource/Template:Authority_control>,
+        <http://dbpedia.org/resource/Template:Capital_cities_of_the_European_Union_candidates>,
+        <http://dbpedia.org/resource/Template:Capitals_of_Bulgaria>,
+        <http://dbpedia.org/resource/Template:Circa>,
+        <http://dbpedia.org/resource/Template:Cit>,
+        <http://dbpedia.org/resource/Template:Cite_book>,
+        <http://dbpedia.org/resource/Template:Color>,
+        <http://dbpedia.org/resource/Template:Commons_category>,
+        <http://dbpedia.org/resource/Template:Coord>,
+        <http://dbpedia.org/resource/Template:Cvt>,
+        <http://dbpedia.org/resource/Template:Div_col>,
+        <http://dbpedia.org/resource/Template:Div_col_end>,
+        <http://dbpedia.org/resource/Template:Dubious>,
+        <http://dbpedia.org/resource/Template:Efn>,
+        <http://dbpedia.org/resource/Template:Flag>,
+        <http://dbpedia.org/resource/Template:Flagicon>,
+        <http://dbpedia.org/resource/Template:Flagicon_image>,
+        <http://dbpedia.org/resource/Template:For_timeline>,
+        <http://dbpedia.org/resource/Template:Geographic_location>,
+        <http://dbpedia.org/resource/Template:Good_article>,
+        <http://dbpedia.org/resource/Template:Historical_capitals_of_Serbia>,
+        <http://dbpedia.org/resource/Template:Historical_populations>,
+        <http://dbpedia.org/resource/Template:IPA>,
+        <http://dbpedia.org/resource/Template:IPAc-en>,
+        <http://dbpedia.org/resource/Template:Infobox_settlement>,
+        <http://dbpedia.org/resource/Template:Interlanguage_link>,
+        <http://dbpedia.org/resource/Template:Lang-sq-definite>,
+        <http://dbpedia.org/resource/Template:Lang-sr-Cyrl>,
+        <http://dbpedia.org/resource/Template:Langx>,
+        <http://dbpedia.org/resource/Template:Legend>,
+        <http://dbpedia.org/resource/Template:List_of_European_capitals_by_region>,
+        <http://dbpedia.org/resource/Template:MKD>,
+        <http://dbpedia.org/resource/Template:Main>,
+        <http://dbpedia.org/resource/Template:More_citations_needed_section>,
+        <http://dbpedia.org/resource/Template:Multiple_image>,
+        <http://dbpedia.org/resource/Template:Native_name>,
+        <http://dbpedia.org/resource/Template:Needs_update>,
+        <http://dbpedia.org/resource/Template:Noflag>,
+        <http://dbpedia.org/resource/Template:Notelist>,
+        <http://dbpedia.org/resource/Template:Portal>,
+        <http://dbpedia.org/resource/Template:Pp-move>,
+        <http://dbpedia.org/resource/Template:Pp-pc>,
+        <http://dbpedia.org/resource/Template:Quote_box>,
+        <http://dbpedia.org/resource/Template:Reflist>,
+        <http://dbpedia.org/resource/Template:Refn>,
+        <http://dbpedia.org/resource/Template:Respell>,
+        <http://dbpedia.org/resource/Template:See_also>,
+        <http://dbpedia.org/resource/Template:Sfn>,
+        <http://dbpedia.org/resource/Template:Short_description>,
+        <http://dbpedia.org/resource/Template:Skopje>,
+        <http://dbpedia.org/resource/Template:Skopje_(close_area)>,
+        <http://dbpedia.org/resource/Template:Towns_in_North_Macedonia>,
+        <http://dbpedia.org/resource/Template:URL>,
+        <http://dbpedia.org/resource/Template:Use_British_English>,
+        <http://dbpedia.org/resource/Template:Use_dmy_dates>,
+        <http://dbpedia.org/resource/Template:Weather_box>,
+        <http://dbpedia.org/resource/Template:Wide_image>,
+        <http://dbpedia.org/resource/Template:Wikivoyage> ;
+    ns1:yearHumidity 70 ;
+    ns1:yearPrecipitationMm 483 ;
+    ns1:yearRecordHighC 4.32e+01 ;
+    ns1:yearRecordLowC -2.56e+01 ;
+    ns1:yearSnowDays 20 ;
+    ns1:yearSun 2339 ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Capitals_in_Europe>,
+        <http://dbpedia.org/resource/Category:Cities_in_North_Macedonia>,
+        <http://dbpedia.org/resource/Category:Cities_in_ancient_Illyria>,
+        <http://dbpedia.org/resource/Category:Former_capitals_of_Bulgaria>,
+        <http://dbpedia.org/resource/Category:Former_capitals_of_Serbia>,
+        <http://dbpedia.org/resource/Category:Skopje> ;
+    ns5:hypernym <http://dbpedia.org/resource/Capital> ;
+    ns7:sameAs <http://viaf.org/viaf/125800534> ;
+    ns4:point "41.99611111111111 21.431666666666665" ;
+    rdfs:seeAlso <http://dbpedia.org/resource/Different_languages:_Q-T>,
+        <http://dbpedia.org/resource/List_of_names_of_European_cities_in_different_languages>,
+        <http://dbpedia.org/resource/Lists_of_twin_towns_and_sister_cities>,
+        <http://dbpedia.org/resource/North_Macedonia>,
+        <http://dbpedia.org/resource/Sister_city> ;
+    owl:sameAs <http://af.dbpedia.org/resource/Skopje>,
+        <http://als.dbpedia.org/resource/Skopje>,
+        <http://am.dbpedia.org/resource/ስኮፕዬ>,
+        <http://an.dbpedia.org/resource/Scopia>,
+        <http://ar.dbpedia.org/resource/إسكوبية>,
+        <http://arz.dbpedia.org/resource/اسكوبيه>,
+        <http://ast.dbpedia.org/resource/Skopie>,
+        <http://az.dbpedia.org/resource/Skopye>,
+        <http://azb.dbpedia.org/resource/ایسکوپیه>,
+        <http://ba.dbpedia.org/resource/Скопье>,
+        <http://be.dbpedia.org/resource/Скоп’е>,
+        <http://bg.dbpedia.org/resource/Скопие>,
+        <http://bn.dbpedia.org/resource/স্কপিয়ে>,
+        <http://br.dbpedia.org/resource/Skopje>,
+        <http://bs.dbpedia.org/resource/Skoplje>,
+        <http://ca.dbpedia.org/resource/Skopje>,
+        <http://ce.dbpedia.org/resource/Скопье>,
+        <http://ceb.dbpedia.org/resource/Skopje_(ulohang_dakbayan_sa_Makedoniya)>,
+        <http://ckb.dbpedia.org/resource/سکۆپیە>,
+        <http://commons.dbpedia.org/resource/Skopje>,
+        <http://cs.dbpedia.org/resource/Skopje>,
+        <http://cv.dbpedia.org/resource/Скопье>,
+        <http://cy.dbpedia.org/resource/Skopje>,
+        <http://d-nb.info/gnd/1029195-7>,
+        <http://d-nb.info/gnd/4248397-9>,
+        <http://da.dbpedia.org/resource/Skopje>,
+        <http://de.dbpedia.org/resource/Skopje>,
+        <http://el.dbpedia.org/resource/Σκόπια>,
+        <http://eo.dbpedia.org/resource/Skopjo>,
+        <http://es.dbpedia.org/resource/Skopie>,
+        <http://et.dbpedia.org/resource/Skopje>,
+        <http://eu.dbpedia.org/resource/Skopje>,
+        <http://fa.dbpedia.org/resource/اسکوپیه>,
+        <http://fi.dbpedia.org/resource/Skopje>,
+        <http://fo.dbpedia.org/resource/Skopje>,
+        <http://fr.dbpedia.org/resource/Skopje>,
+        <http://fy.dbpedia.org/resource/Skopje>,
+        <http://ga.dbpedia.org/resource/Scóipé>,
+        <http://gd.dbpedia.org/resource/Skopje>,
+        <http://gl.dbpedia.org/resource/Skopje>,
+        <http://he.dbpedia.org/resource/סקופיה>,
+        <http://hi.dbpedia.org/resource/स्कोपिये>,
+        <http://hr.dbpedia.org/resource/Skoplje>,
+        <http://hsb.dbpedia.org/resource/Skopje>,
+        <http://ht.dbpedia.org/resource/Skopje>,
+        <http://hu.dbpedia.org/resource/Szkopje>,
+        <http://hy.dbpedia.org/resource/Սկոպիե>,
+        <http://ia.dbpedia.org/resource/Skopje>,
+        <http://id.dbpedia.org/resource/Skopje>,
+        <http://io.dbpedia.org/resource/Skopje>,
+        <http://is.dbpedia.org/resource/Skopje>,
+        <http://it.dbpedia.org/resource/Skopje>,
+        <http://ja.dbpedia.org/resource/スコピエ>,
+        <http://jv.dbpedia.org/resource/Skopje>,
+        <http://ka.dbpedia.org/resource/სკოპიე>,
+        <http://kk.dbpedia.org/resource/Скопье>,
+        <http://ko.dbpedia.org/resource/스코페>,
+        <http://ku.dbpedia.org/resource/Skopye>,
+        <http://ky.dbpedia.org/resource/Скопье>,
+        <http://la.dbpedia.org/resource/Scupi>,
+        <http://lb.dbpedia.org/resource/Skopje>,
+        <http://linkedgeodata.org/triplify/node170792214>,
+        <http://lmo.dbpedia.org/resource/Skopje>,
+        <http://lt.dbpedia.org/resource/Skopjė>,
+        <http://lv.dbpedia.org/resource/Skopje>,
+        <http://mg.dbpedia.org/resource/Skopje>,
+        <http://mk.dbpedia.org/resource/Скопје>,
+        <http://ml.dbpedia.org/resource/സ്കോപിയെ>,
+        <http://mn.dbpedia.org/resource/Скопье>,
+        <http://mr.dbpedia.org/resource/स्कोप्ये>,
+        <http://ms.dbpedia.org/resource/Skopje>,
+        <http://musicbrainz.org/area/a24c1b18-6aad-41e3-9c6d-e9853c97e2c8>,
+        <http://mzn.dbpedia.org/resource/اسکوپیه>,
+        <http://nl.dbpedia.org/resource/Skopje>,
+        <http://nn.dbpedia.org/resource/Skopje>,
+        <http://no.dbpedia.org/resource/Skopje>,
+        <http://oc.dbpedia.org/resource/Skopje>,
+        <http://os.dbpedia.org/resource/Скопье>,
+        <http://pa.dbpedia.org/resource/ਸਕੋਪੀਏ>,
+        <http://pl.dbpedia.org/resource/Skopje>,
+        <http://pms.dbpedia.org/resource/Skopje>,
+        <http://pnb.dbpedia.org/resource/سکوپئے>,
+        <http://pt.dbpedia.org/resource/Escópia>,
+        <http://qu.dbpedia.org/resource/Skopje>,
+        <http://rdf.freebase.com/ns/m.07bbc>,
+        <http://ro.dbpedia.org/resource/Skopje>,
+        <http://ru.dbpedia.org/resource/Скопье>,
+        <http://scn.dbpedia.org/resource/Skopje>,
+        <http://sco.dbpedia.org/resource/Skopje>,
+        <http://sh.dbpedia.org/resource/Skoplje>,
+        <http://simple.dbpedia.org/resource/Skopje>,
+        <http://sk.dbpedia.org/resource/Skopje>,
+        <http://sl.dbpedia.org/resource/Skopje>,
+        <http://sq.dbpedia.org/resource/Shkupi>,
+        <http://sr.dbpedia.org/resource/Скопље>,
+        <http://sv.dbpedia.org/resource/Skopje>,
+        <http://sw.cyc.com/concept/Mx4rvVj-GZwpEbGdrcN5Y29ycA>,
+        <http://sw.dbpedia.org/resource/Skopje>,
+        <http://sws.geonames.org/785842/>,
+        <http://ta.dbpedia.org/resource/ஸ்கோப்ஜே>,
+        <http://tg.dbpedia.org/resource/Скопе>,
+        <http://th.dbpedia.org/resource/สกอเปีย>,
+        <http://tl.dbpedia.org/resource/Skopje>,
+        <http://tr.dbpedia.org/resource/Üsküp>,
+        <http://tt.dbpedia.org/resource/Өскеп>,
+        <http://uk.dbpedia.org/resource/Скоп'є>,
+        <http://ur.dbpedia.org/resource/اسکوپیہ>,
+        <http://uz.dbpedia.org/resource/Skopye>,
+        <http://vec.dbpedia.org/resource/Skopje>,
+        <http://vi.dbpedia.org/resource/Skopje>,
+        <http://viaf.org/viaf/125800534>,
+        <http://viaf.org/viaf/6657148574321624430008>,
+        <http://vo.dbpedia.org/resource/Skopje>,
+        <http://war.dbpedia.org/resource/Skopje>,
+        <http://www.wikidata.org/entity/Q384>,
+        <http://yago-knowledge.org/resource/Skopje>,
+        <http://yi.dbpedia.org/resource/סקאפיע>,
+        <http://yo.dbpedia.org/resource/Skopje>,
+        <http://zh.dbpedia.org/resource/斯科普里>,
+        <https://global.dbpedia.org/id/3Yvxd> ;
+    ns3:geometry "POINT(21.431667327881 41.996112823486)"^^<http://www.openlinksw.com/schemas/virtrdf#Geometry> ;
+    ns3:lat 4.199611e+01 ;
+    ns3:long 2.143167e+01 ;
+    skos:exactMatch <http://globalwordnet.org/ili/i83794> ;
+    prov:wasDerivedFrom <http://en.wikipedia.org/wiki/Skopje?oldid=1296493655&ns=0> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Archaeological_Museum_of_Macedonia.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Cave_lake_(8172274819).jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Centar,_Skopje_1000,_Macedonia_(FYROM)_-_panoramio_(151).jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Centarot_na_Skopje_pred_zemjotresot.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Chento_Vlahov_Apostolski_-_Parading_in_liberated_Skopje.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Aerodrom_Municipality,_2012-present.svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Butel_Municipality.svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Centar_Municipality,_Macedonia.svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Gazi_Baba_Municipality.svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Karpoš_Municipality.svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Kisela_Voda_Municipality_(2015).svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Saraj_Municipality.svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Skopje.svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Čair_Municipality.svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Šuto_Orizari_Municipality.svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Ǵorče_Petrov_Municipality.svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Coronation_of_Emperor_Dušan,_in_%22The_Slavonic_Epic%22_(1926).jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Daut-pasin_amam,_Skopje.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Del_od_Skopje,_1950ti.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/E65_Skopje_Northern_Bypass_1.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Bulgaria.svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_City_of_Skopje.svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Serbia_(1882–1918).svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Yugoslavia_(1918–1941).svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Yugoslavia_(1943–1946).svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Yugoslavia_(1946-1992).svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Ottoman_Empire.svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Serbian_Empire,_reconstruction.svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/GUP_Skopje_2002_mal.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Gorno_Nerezi_2013_(1).jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Isak_Bey_Turbe_Aladja_Mosque_Skopje.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Kapistec.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/MIHPM(Skopje).png>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/MKD_muni_nonn(Skopje).png>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/MRT_Center_3.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Macedonian_Cross_Aerodrom_1.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Macedonian_Opera_and_Ballet_3.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Makedonski_Naroden_Teatar_2013_18.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Manastir_sveti_Pantelejmon_vo_selo_Nerezi.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Map_City_of_Skopje_en.svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Matka2.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Meister_von_Nerezi_001.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Millennium_Cross_Vodno_2025_2.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Mustafa_Paşa_Mosque,_Skopje.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Mustafa_Paşa_Mosque,_Skopje_-_interior.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Nanev_Skopje_1941.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Ottoman_Postcard_of_Huriet_in_Skopie2.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/PedroIEnUskub11031v.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Pošta_vo_Skopje,_Macedonia.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Presveta_Bogordica_od_Skopje_4.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Prvomajska_proslava_vo_Skopje,_1909.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Royal_banner_of_Branković_family.svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Saat_Kula-Sultan_Muratova_Dzamija_-Skopje_(27).jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Saraj_swimming_pool.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Serava.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Shkup1912.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Shy_venus_statue_skopje.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopije_at_night.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje-couteliers_1919.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje-pano.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_-_Museum_of_the_Macedonian_Struggle.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_-_Old_City_(9454038410).jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_2014_-_Art_Bridge.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_Aqueduct_9.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_City_Council_(October_2021).svg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_City_Mall.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_Kale_3.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_SPOT_1114.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_Train_Station_from_Mount_Vodno.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_X126.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_X132.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_X31.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_X48.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_X8.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_X9.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_administrative_division_numbered1.png>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_panorama_2.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopje_view_from_Kale_3.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skoplje_1912.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skopsko_Kale,_stara.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Skupi_(Colonia_Flavia_Scupinorum)_-_by_Pudelek_1.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/SoraviaCenter1.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Ss._Cyril_and_Methodius_University_in_Skopje_6.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/St._Clement_Church_Skopje_3.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Stone_Bridge_Panorama_(41441871740).jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Stone_Bridge_Skopje_4.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Sv._Bogorodica_Skopje_01.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Tower_from_the_Skopje_Fortress.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Towers_Karpos4_Skopje.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/US_army_in_Skopje_1963.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Ulica_Makedonija.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Urban_pollution_,Градско_загадување.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Wildflowers_of_Bardovci12.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Yutong_City_Master_(SK_9734-AC)_JSP_(1).jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Zeleno_pazarce_-_Flickr_-_ImogenX_(9).jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Скопски_смог_-_photo_by_Giotto_Скопје,_Р._Македонија_,_Skopje,_R._Macedonia_-_panoramio.jpg> ;
+    foaf:homepage <http://www.skopje.gov.mk/en> ;
+    foaf:isPrimaryTopicOf <http://en.wikipedia.org/wiki/Skopje> ;
+    foaf:name "City of Skopje"@en,
+        "Qyteti i Shkupit"@en,
+        "Skopje"@en,
+        "Град Скопје"@en .
+
